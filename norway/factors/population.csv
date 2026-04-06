@@ -1,0 +1,1072 @@
+country_id,factor_id,year,public_geography_type,public_geography_id,municipality,value,unit,provenance_ref,comparability_status
+norway,population,2024,municipality,0301,Oslo - Oslove,717710,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1101,Eigersund,15221,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1103,Stavanger,149048,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1106,Haugesund,38292,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1108,Sandnes,83702,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1111,Sokndal,3347,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1112,Lund,3226,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1114,Bjerkreim,2892,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1119,H�,19827,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1120,Klepp,20900,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1121,Time,19910,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1122,Gjesdal,12362,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1124,Sola,28685,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1127,Randaberg,11742,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1130,Strand,13703,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1133,Hjelmeland,2643,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1134,Suldal,3889,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1135,Sauda,4572,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1144,Kvits�y,544,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1145,Bokn,883,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1146,Tysv�r,11570,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1149,Karm�y,43306,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1151,Utsira,215,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1160,Vindafjord,8938,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1505,Kristiansund,24404,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1506,Molde,32816,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1508,�lesund,58509,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1511,Vanylven,3026,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1514,Sande,2438,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1515,Her�y (M�re og Romsdal),8968,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1516,Ulstein,8861,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1517,Hareid,5322,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1520,�rsta,10958,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1525,Stranda,4348,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1528,Sykkylven,7617,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1531,Sula,9720,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1532,Giske,8691,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1535,Vestnes,7147,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1539,Rauma,7299,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1547,Aukra,3678,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1554,Aver�y,5955,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1557,Gjemnes,2700,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1560,Tingvoll,3041,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1563,Sunndal,7227,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1566,Surnadal,5953,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1573,Sm�la,2159,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1576,Aure,3408,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1577,Volda,11093,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1578,Fjord,2492,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1579,Hustadvika,13437,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1580,Haram,9357,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1804,Bod�,53712,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1806,Narvik,21580,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1811,Bindal,1399,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1812,S�mna,1976,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1813,Br�nn�y,7826,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1815,Vega,1208,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1816,Vevelstad,480,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1818,Her�y (Nordland),1842,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1820,Alstahaug,7421,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1822,Leirfjord,2352,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1824,Vefsn,13469,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1825,Grane,1447,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1826,Aarborte - Hattfjelldal,1284,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1827,D�nna,1427,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1828,Nesna,1808,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1832,Hemnes,4485,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1833,Rana - Raane,25994,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1834,Lur�y,1886,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1835,Tr�na,442,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1836,R�d�y,1139,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1837,Mel�y,6180,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1838,Gildesk�l,1958,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1839,Beiarn,1062,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1840,Saltdal,4880,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1841,Fauske - Fuosko,9827,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1845,S�rfold - Fuolld�,1858,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1848,Steigen,2672,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1851,L�dingen,2060,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1853,Evenes - Even�ssi,1330,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1856,R�st,460,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1857,V�r�y,683,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1859,Flakstad,1229,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1860,Vestv�g�y,11619,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1865,V�gan,9793,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1866,Hadsel,8236,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1867,B�,2634,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1868,�ksnes,4569,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1870,Sortland - Suort�,10618,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1871,And�y,4553,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1874,Moskenes,954,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,1875,H�bmer - Hamar�y,2729,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3101,Halden,31935,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3103,Moss,52051,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3105,Sarpsborg,59771,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3107,Fredrikstad,85230,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3110,Hvaler,4787,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3112,R�de,7883,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3114,V�ler (�stfold),6145,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3116,Skiptvet,3919,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3118,Indre �stfold,47006,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3120,Rakkestad,8420,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3122,Marker,3658,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3124,Aremark,1347,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3201,B�rum,130921,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3203,Asker,98815,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3205,Lillestr�m,94201,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3207,Nordre Follo,63560,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3209,Ullensaker,43814,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3212,Nesodden,20521,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3214,Frogn,16244,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3216,Vestby,19493,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3218,�s,22005,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3220,Enebakk,11482,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3222,L�renskog,48188,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3224,R�lingen,20099,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3226,Aurskog-H�land,18058,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3228,Nes,24645,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3230,Gjerdrum,7398,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3232,Nittedal,25882,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3234,Lunner,9357,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3236,Jevnaker,7037,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3238,Nannestad,16126,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3240,Eidsvoll,27916,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3242,Hurdal,3041,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3301,Drammen,104487,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3303,Kongsberg,28848,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3305,Ringerike,31581,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3310,Hole,6989,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3312,Lier,28470,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3314,�vre Eiker,20779,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3316,Modum,14665,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3318,Kr�dsherad,2241,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3320,Fl�,1115,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3322,Nesbyen,3301,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3324,Gol,4986,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3326,Hemsedal,2666,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3328,�l,5007,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3330,Hol,4496,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3332,Sigdal,3526,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3334,Flesberg,2781,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3336,Rollag,1395,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3338,Nore og Uvdal,2486,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3401,Kongsvinger,18058,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3403,Hamar,32879,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3405,Lillehammer,28768,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3407,Gj�vik,30903,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3411,Ringsaker,35612,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3412,L�ten,7929,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3413,Stange,21605,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3414,Nord-Odal,4992,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3415,S�r-Odal,8112,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3416,Eidskog,6040,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3417,Grue,4532,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3418,�snes,7339,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3419,V�ler (Innlandet),3615,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3420,Elverum,21761,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3421,Trysil,6566,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3422,�mot,4289,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3423,Stor-Elvdal,2276,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3424,Rendalen,1837,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3425,Engerdal,1361,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3426,Tolga,1604,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3427,Tynset,5692,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3428,Alvdal,2526,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3429,Folldal,1532,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3430,Os,1891,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3431,Dovre,2503,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3432,Lesja,1983,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3433,Skj�k,2141,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3434,Lom,2212,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3435,V�g�,3531,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3436,Nord-Fron,5586,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3437,Sel,5756,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3438,S�r-Fron,3119,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3439,Ringebu,4413,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3440,�yer,5124,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3441,Gausdal,6177,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3442,�stre Toten,14840,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3443,Vestre Toten,13691,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3446,Gran,13593,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3447,S�ndre Land,5587,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3448,Nordre Land,6510,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3449,S�r-Aurdal,2836,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3450,Etnedal,1366,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3451,Nord-Aurdal,6562,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3452,Vestre Slidre,2112,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3453,�ystre Slidre,3298,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3454,Vang,1645,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3901,Horten,27939,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3903,Holmestrand,26872,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3905,T�nsberg,59174,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3907,Sandefjord,66231,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3909,Larvik,48715,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,3911,F�rder,27501,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4001,Porsgrunn,37193,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4003,Skien,56619,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4005,Notodden,13266,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4010,Siljan,2382,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4012,Bamble,14269,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4014,Krager�,10445,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4016,Drangedal,4086,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4018,Nome,6539,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4020,Midt-Telemark,10904,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4022,Seljord,2979,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4024,Hjartdal,1630,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4026,Tinn,5533,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4028,Kviteseid,2458,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4030,Nissedal,1471,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4032,Fyresdal,1256,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4034,Tokke,2212,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4036,Vinje,3851,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4201,Ris�r,6825,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4202,Grimstad,24969,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4203,Arendal,46355,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4204,Kristiansand,116986,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4205,Lindesnes,23690,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4206,Farsund,9876,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4207,Flekkefjord,9279,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4211,Gjerstad,2444,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4212,Veg�rshei,2268,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4213,Tvedestrand,6323,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4214,Froland,6236,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4215,Lillesand,11523,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4216,Birkenes,5480,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4217,�mli,1802,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4218,Iveland,1380,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4219,Evje og Hornnes,3967,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4220,Bygland,1180,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4221,Valle,1205,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4222,Bykle,1011,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4223,Vennesla,15452,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4224,�seral,923,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4225,Lyngdal,10835,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4226,H�gebostad,1776,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4227,Kvinesdal,6192,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4228,Sirdal,1873,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4601,Bergen,291940,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4602,Kinn,17349,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4611,Etne,4072,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4612,Sveio,5742,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4613,B�mlo,12268,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4614,Stord,19287,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4615,Fitjar,3203,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4616,Tysnes,2922,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4617,Kvinnherad,13089,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4618,Ullensvang,11017,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4619,Eidfjord,968,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4620,Ulvik,1089,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4621,Voss,16471,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4622,Kvam,8496,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4623,Samnanger,2502,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4624,Bj�rnafjorden,26080,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4625,Austevoll,5300,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4626,�ygarden,39768,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4627,Ask�y,30145,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4628,Vaksdal,3852,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4629,Modalen,384,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4630,Oster�y,8200,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4631,Alver,29986,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4632,Austrheim,2881,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4633,Fedje,519,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4634,Masfjorden,1694,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4635,Gulen,2234,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4636,Solund,750,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4637,Hyllestad,1268,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4638,H�yanger,3879,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4639,Vik,2551,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4640,Sogndal,12319,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4641,Aurland,1800,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4642,L�rdal,2160,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4643,�rdal,5239,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4644,Luster,5371,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4645,Askvoll,2986,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4646,Fjaler,2869,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4647,Sunnfjord,22450,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4648,Bremanger,3392,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4649,Stad,9610,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4650,Gloppen,5926,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,4651,Stryn,7271,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5001,Trondheim - Tr�ante,214565,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5006,Steinkjer - St�entje,24032,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5007,Namsos - N�avmesjenjaelmie,15083,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5014,Fr�ya,5453,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5020,Osen,898,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5021,Oppdal,7389,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5022,Rennebu,2484,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5025,R�ros - Rosse,5685,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5026,Holt�len,2035,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5027,Midtre Gauldal,6140,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5028,Melhus,17560,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5029,Skaun,8484,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5031,Malvik,14783,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5032,Selbu,4216,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5033,Tydal,773,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5034,Mer�ker,2454,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5035,Stj�rdal,24717,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5036,Frosta,2645,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5037,Levanger - Levangke,20574,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5038,Verdal,15193,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5041,Sn�ase - Sn�sa,2114,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5042,Lierne,1301,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5043,Raarvihke - R�yrvik,423,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5044,Namsskogan,810,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5045,Grong,2322,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5046,H�ylandet,1222,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5047,Overhalla,3924,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5049,Flatanger,1116,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5052,Leka,604,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5053,Inder�y,6938,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5054,Indre Fosen,10023,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5055,Heim,6093,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5056,Hitra,5323,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5057,�rland,10522,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5058,�fjord,4339,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5059,Orkland,18793,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5060,N�r�ysund,9968,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5061,Rindal,1958,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5501,Troms�,78745,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5503,Harstad - H�rstt�k,25056,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5510,Kv�fjord,2845,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5512,Dielddanuorri - Tjeldsund,4281,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5514,Ibestad,1311,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5516,Gratangen - Rivtt�k,1070,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5518,Loab�k - Lavangen,986,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5520,Bardu,3986,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5522,Salangen,2069,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5524,M�lselv,6714,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5526,S�rreisa,3485,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5528,Dyr�y,1073,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5530,Senja,14894,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5532,Balsfjord,5571,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5534,Karls�y,2237,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5536,Lyngen - Ivgu - Yyke�,2743,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5538,Storfjord - Omasvuotna - Omasvuono,1825,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5540,G�ivuotna - K�fjord - Kaivuono,1974,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5542,Skjerv�y,2794,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5544,Nordreisa - R�isa - Raisi,4794,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5546,Kv�nangen,1157,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5601,Alta,21708,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5603,Hammerfest - H�mmerfeasta,11338,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5605,S�r-Varanger,10063,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5607,Vads�,5807,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5610,K�r�sjohka - Karasjok,2565,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5612,Guovdageaidnu - Kautokeino,2848,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5614,Loppa,864,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5616,Hasvik,979,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5618,M�s�y,1113,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5620,Nordkapp,2951,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5622,Porsanger - Pors�ngu - Porsanki,3889,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5624,Lebesby,1215,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5626,Gamvik,1070,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5628,Deatnu - Tana,2807,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5630,Berlev�g,892,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5632,B�tsfjord,2113,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5634,Vard�,1972,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2024,municipality,5636,Unj�rga - Nesseby,859,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,0301,Oslo - Oslove,724290,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1101,Eigersund,15375,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1103,Stavanger,150123,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1106,Haugesund,38441,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1108,Sandnes,84908,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1111,Sokndal,3371,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1112,Lund,3259,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1114,Bjerkreim,2905,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1119,H�,20067,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1120,Klepp,21186,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1121,Time,20157,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1122,Gjesdal,12536,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1124,Sola,29153,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1127,Randaberg,11795,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1130,Strand,13813,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1133,Hjelmeland,2681,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1134,Suldal,3939,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1135,Sauda,4600,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1144,Kvits�y,570,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1145,Bokn,893,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1146,Tysv�r,11715,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1149,Karm�y,43723,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1151,Utsira,217,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1160,Vindafjord,9069,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1505,Kristiansund,24578,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1506,Molde,33163,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1508,�lesund,59198,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1511,Vanylven,3048,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1514,Sande,2435,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1515,Her�y (M�re og Romsdal),9031,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1516,Ulstein,8862,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1517,Hareid,5320,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1520,�rsta,11055,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1525,Stranda,4380,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1528,Sykkylven,7626,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1531,Sula,9759,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1532,Giske,8773,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1535,Vestnes,7242,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1539,Rauma,7196,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1547,Aukra,3759,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1554,Aver�y,5992,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1557,Gjemnes,2708,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1560,Tingvoll,3077,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1563,Sunndal,7193,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1566,Surnadal,5950,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1573,Sm�la,2168,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1576,Aure,3394,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1577,Volda,11131,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1578,Fjord,2506,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1579,Hustadvika,13460,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1580,Haram,9409,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1804,Bod�,53725,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1806,Narvik,21591,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1811,Bindal,1374,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1812,S�mna,1979,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1813,Br�nn�y,7838,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1815,Vega,1207,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1816,Vevelstad,470,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1818,Her�y (Nordland),1888,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1820,Alstahaug,7465,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1822,Leirfjord,2354,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1824,Vefsn,13475,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1825,Grane,1430,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1826,Aarborte - Hattfjelldal,1274,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1827,D�nna,1447,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1828,Nesna,1770,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1832,Hemnes,4485,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1833,Rana - Raane,25927,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1834,Lur�y,1948,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1835,Tr�na,463,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1836,R�d�y,1160,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1837,Mel�y,6104,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1838,Gildesk�l,2003,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1839,Beiarn,1059,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1840,Saltdal,4822,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1841,Fauske - Fuosko,9805,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1845,S�rfold - Fuolld�,1851,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1848,Steigen,2662,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1851,L�dingen,2067,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1853,Evenes - Even�ssi,1362,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1856,R�st,458,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1857,V�r�y,677,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1859,Flakstad,1266,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1860,Vestv�g�y,11582,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1865,V�gan,9871,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1866,Hadsel,8400,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1867,B�,2617,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1868,�ksnes,4628,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1870,Sortland - Suort�,10781,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1871,And�y,4542,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1874,Moskenes,969,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,1875,H�bmer - Hamar�y,2786,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3101,Halden,32038,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3103,Moss,52646,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3105,Sarpsborg,60139,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3107,Fredrikstad,85862,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3110,Hvaler,4777,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3112,R�de,7850,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3114,V�ler (�stfold),6162,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3116,Skiptvet,3956,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3118,Indre �stfold,47449,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3120,Rakkestad,8527,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3122,Marker,3655,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3124,Aremark,1346,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3201,B�rum,132358,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3203,Asker,100492,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3205,Lillestr�m,95762,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3207,Nordre Follo,64668,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3209,Ullensaker,45066,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3212,Nesodden,20698,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3214,Frogn,16337,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3216,Vestby,19855,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3218,�s,22344,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3220,Enebakk,11549,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3222,L�renskog,50013,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3224,R�lingen,20509,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3226,Aurskog-H�land,18314,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3228,Nes,24897,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3230,Gjerdrum,7453,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3232,Nittedal,26023,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3234,Lunner,9420,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3236,Jevnaker,7043,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3238,Nannestad,16505,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3240,Eidsvoll,28352,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3242,Hurdal,3022,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3301,Drammen,105452,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3303,Kongsberg,29011,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3305,Ringerike,31793,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3310,Hole,7065,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3312,Lier,28642,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3314,�vre Eiker,20861,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3316,Modum,14664,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3318,Kr�dsherad,2235,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3320,Fl�,1117,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3322,Nesbyen,3266,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3324,Gol,4888,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3326,Hemsedal,2685,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3328,�l,4835,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3330,Hol,4527,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3332,Sigdal,3530,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3334,Flesberg,2797,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3336,Rollag,1414,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3338,Nore og Uvdal,2466,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3401,Kongsvinger,18109,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3403,Hamar,33441,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3405,Lillehammer,29011,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3407,Gj�vik,31175,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3411,Ringsaker,35911,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3412,L�ten,7931,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3413,Stange,21691,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3414,Nord-Odal,5006,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3415,S�r-Odal,8150,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3416,Eidskog,6059,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3417,Grue,4513,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3418,�snes,7247,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3419,V�ler (Innlandet),3559,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3420,Elverum,21899,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3421,Trysil,6542,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3422,�mot,4205,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3423,Stor-Elvdal,2250,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3424,Rendalen,1846,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3425,Engerdal,1326,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3426,Tolga,1606,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3427,Tynset,5722,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3428,Alvdal,2509,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3429,Folldal,1540,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3430,Os,1895,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3431,Dovre,2516,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3432,Lesja,2006,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3433,Skj�k,2179,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3434,Lom,2215,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3435,V�g�,3529,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3436,Nord-Fron,5553,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3437,Sel,5623,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3438,S�r-Fron,3128,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3439,Ringebu,4447,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3440,�yer,5134,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3441,Gausdal,6174,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3442,�stre Toten,14827,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3443,Vestre Toten,13649,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3446,Gran,13660,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3447,S�ndre Land,5597,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3448,Nordre Land,6544,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3449,S�r-Aurdal,2822,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3450,Etnedal,1254,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3451,Nord-Aurdal,6455,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3452,Vestre Slidre,2142,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3453,�ystre Slidre,3311,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3454,Vang,1648,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3901,Horten,28039,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3903,Holmestrand,27005,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3905,T�nsberg,59830,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3907,Sandefjord,66758,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3909,Larvik,48870,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,3911,F�rder,27569,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4001,Porsgrunn,37289,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4003,Skien,56866,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4005,Notodden,13333,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4010,Siljan,2389,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4012,Bamble,14310,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4014,Krager�,10446,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4016,Drangedal,4067,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4018,Nome,6558,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4020,Midt-Telemark,11135,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4022,Seljord,2981,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4024,Hjartdal,1646,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4026,Tinn,5529,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4028,Kviteseid,2473,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4030,Nissedal,1486,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4032,Fyresdal,1256,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4034,Tokke,2238,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4036,Vinje,3861,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4201,Ris�r,6687,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4202,Grimstad,25419,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4203,Arendal,46568,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4204,Kristiansand,118221,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4205,Lindesnes,23768,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4206,Farsund,9880,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4207,Flekkefjord,9329,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4211,Gjerstad,2492,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4212,Veg�rshei,2285,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4213,Tvedestrand,6464,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4214,Froland,6260,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4215,Lillesand,11734,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4216,Birkenes,5413,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4217,�mli,1778,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4218,Iveland,1399,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4219,Evje og Hornnes,3828,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4220,Bygland,1162,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4221,Valle,1205,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4222,Bykle,1039,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4223,Vennesla,15622,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4224,�seral,915,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4225,Lyngdal,10869,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4226,H�gebostad,1786,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4227,Kvinesdal,6163,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4228,Sirdal,1902,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4601,Bergen,293709,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4602,Kinn,17419,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4611,Etne,4093,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4612,Sveio,5752,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4613,B�mlo,12365,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4614,Stord,19350,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4615,Fitjar,3208,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4616,Tysnes,2986,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4617,Kvinnherad,13175,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4618,Ullensvang,10981,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4619,Eidfjord,967,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4620,Ulvik,1100,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4621,Voss,16436,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4622,Kvam,8517,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4623,Samnanger,2491,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4624,Bj�rnafjorden,26342,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4625,Austevoll,5437,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4626,�ygarden,40105,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4627,Ask�y,30377,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4628,Vaksdal,3875,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4629,Modalen,392,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4630,Oster�y,8172,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4631,Alver,30169,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4632,Austrheim,2915,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4633,Fedje,521,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4634,Masfjorden,1687,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4635,Gulen,2260,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4636,Solund,740,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4637,Hyllestad,1281,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4638,H�yanger,3894,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4639,Vik,2550,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4640,Sogndal,12496,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4641,Aurland,1836,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4642,L�rdal,2188,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4643,�rdal,5213,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4644,Luster,5432,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4645,Askvoll,2930,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4646,Fjaler,2924,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4647,Sunnfjord,22662,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4648,Bremanger,3361,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4649,Stad,9655,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4650,Gloppen,5936,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,4651,Stryn,7311,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5001,Trondheim - Tr�ante,216518,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5006,Steinkjer - St�entje,24064,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5007,Namsos - N�avmesjenjaelmie,15154,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5014,Fr�ya,5655,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5020,Osen,891,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5021,Oppdal,7408,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5022,Rennebu,2513,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5025,R�ros - Rosse,5681,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5026,Holt�len,2048,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5027,Midtre Gauldal,6141,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5028,Melhus,17812,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5029,Skaun,8521,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5031,Malvik,15023,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5032,Selbu,4233,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5033,Tydal,786,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5034,Mer�ker,2472,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5035,Stj�rdal,24927,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5036,Frosta,2661,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5037,Levanger - Levangke,20732,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5038,Verdal,15412,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5041,Sn�ase - Sn�sa,2138,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5042,Lierne,1316,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5043,Raarvihke - R�yrvik,443,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5044,Namsskogan,811,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5045,Grong,2314,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5046,H�ylandet,1235,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5047,Overhalla,3946,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5049,Flatanger,1121,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5052,Leka,593,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5053,Inder�y,7031,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5054,Indre Fosen,10042,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5055,Heim,6134,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5056,Hitra,5414,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5057,�rland,10627,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5058,�fjord,4342,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5059,Orkland,18798,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5060,N�r�ysund,9921,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5061,Rindal,1937,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5501,Troms�,79421,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5503,Harstad - H�rstt�k,25167,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5510,Kv�fjord,2852,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5512,Dielddanuorri - Tjeldsund,4209,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5514,Ibestad,1301,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5516,Gratangen - Rivtt�k,1062,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5518,Loab�k - Lavangen,985,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5520,Bardu,3961,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5522,Salangen,2116,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5524,M�lselv,6794,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5526,S�rreisa,3533,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5528,Dyr�y,1069,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5530,Senja,14948,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5532,Balsfjord,5595,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5534,Karls�y,2223,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5536,Lyngen - Ivgu - Yyke�,2734,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5538,Storfjord - Omasvuotna - Omasvuono,1829,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5540,G�ivuotna - K�fjord - Kaivuono,1955,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5542,Skjerv�y,2784,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5544,Nordreisa - R�isa - Raisi,4810,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5546,Kv�nangen,1131,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5601,Alta,21877,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5603,Hammerfest - H�mmerfeasta,11324,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5605,S�r-Varanger,9963,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5607,Vads�,5777,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5610,K�r�sjohka - Karasjok,2524,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5612,Guovdageaidnu - Kautokeino,2852,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5614,Loppa,864,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5616,Hasvik,977,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5618,M�s�y,1098,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5620,Nordkapp,2956,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5622,Porsanger - Pors�ngu - Porsanki,3896,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5624,Lebesby,1238,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5626,Gamvik,1051,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5628,Deatnu - Tana,2798,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5630,Berlev�g,890,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5632,B�tsfjord,2107,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5634,Vard�,1982,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2025,municipality,5636,Unj�rga - Nesseby,868,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,0301,Oslo - Oslove,728714,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1101,Eigersund,15546,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1103,Stavanger,151669,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1106,Haugesund,38663,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1108,Sandnes,85785,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1111,Sokndal,3356,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1112,Lund,3229,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1114,Bjerkreim,2894,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1119,H�,20087,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1120,Klepp,21444,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1121,Time,20461,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1122,Gjesdal,12715,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1124,Sola,29541,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1127,Randaberg,11841,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1130,Strand,13959,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1133,Hjelmeland,2612,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1134,Suldal,3891,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1135,Sauda,4603,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1144,Kvits�y,579,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1145,Bokn,907,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1146,Tysv�r,11750,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1149,Karm�y,43990,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1151,Utsira,219,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1160,Vindafjord,9181,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1505,Kristiansund,24479,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1506,Molde,33291,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1508,�lesund,59663,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1511,Vanylven,3029,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1514,Sande,2437,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1515,Her�y (M�re og Romsdal),9003,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1516,Ulstein,8958,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1517,Hareid,5411,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1520,�rsta,11068,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1525,Stranda,4333,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1528,Sykkylven,7626,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1531,Sula,9798,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1532,Giske,8828,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1535,Vestnes,7315,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1539,Rauma,7195,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1547,Aukra,3780,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1554,Aver�y,6007,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1557,Gjemnes,2740,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1560,Tingvoll,3066,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1563,Sunndal,7094,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1566,Surnadal,5982,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1573,Sm�la,2141,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1576,Aure,3371,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1577,Volda,11009,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1578,Fjord,2547,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1579,Hustadvika,13538,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1580,Haram,9460,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1804,Bod�,53638,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1806,Narvik,21647,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1811,Bindal,1361,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1812,S�mna,2006,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1813,Br�nn�y,7841,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1815,Vega,1202,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1816,Vevelstad,477,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1818,Her�y (Nordland),1874,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1820,Alstahaug,7489,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1822,Leirfjord,2392,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1824,Vefsn,13481,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1825,Grane,1415,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1826,Aarborte - Hattfjelldal,1255,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1827,D�nna,1445,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1828,Nesna,1796,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1832,Hemnes,4486,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1833,Rana - Raane,25844,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1834,Lur�y,1953,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1835,Tr�na,443,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1836,R�d�y,1140,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1837,Mel�y,6074,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1838,Gildesk�l,2024,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1839,Beiarn,1032,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1840,Saltdal,4865,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1841,Fauske - Fuosko,9707,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1845,S�rfold - Fuolld�,1819,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1848,Steigen,2679,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1851,L�dingen,1964,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1853,Evenes - Even�ssi,1397,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1856,R�st,471,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1857,V�r�y,656,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1859,Flakstad,1235,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1860,Vestv�g�y,11606,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1865,V�gan,9905,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1866,Hadsel,8374,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1867,B�,2609,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1868,�ksnes,4613,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1870,Sortland - Suort�,10748,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1871,And�y,4525,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1874,Moskenes,976,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,1875,H�bmer - Hamar�y,2808,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3101,Halden,32082,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3103,Moss,53207,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3105,Sarpsborg,60614,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3107,Fredrikstad,86243,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3110,Hvaler,4714,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3112,R�de,7892,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3114,V�ler (�stfold),6229,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3116,Skiptvet,3940,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3118,Indre �stfold,47943,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3120,Rakkestad,8583,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3122,Marker,3647,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3124,Aremark,1354,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3201,B�rum,133228,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3203,Asker,101509,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3205,Lillestr�m,96771,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3207,Nordre Follo,65381,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3209,Ullensaker,45982,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3212,Nesodden,21005,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3214,Frogn,16429,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3216,Vestby,20167,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3218,�s,22725,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3220,Enebakk,11697,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3222,L�renskog,51511,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3224,R�lingen,20904,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3226,Aurskog-H�land,18458,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3228,Nes,24948,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3230,Gjerdrum,7478,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3232,Nittedal,26032,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3234,Lunner,9463,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3236,Jevnaker,7040,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3238,Nannestad,16662,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3240,Eidsvoll,28739,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3242,Hurdal,3078,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3301,Drammen,106013,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3303,Kongsberg,29169,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3305,Ringerike,31942,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3310,Hole,7205,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3312,Lier,28797,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3314,�vre Eiker,20965,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3316,Modum,14776,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3318,Kr�dsherad,2276,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3320,Fl�,1122,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3322,Nesbyen,3234,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3324,Gol,4902,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3326,Hemsedal,2707,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3328,�l,5106,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3330,Hol,4552,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3332,Sigdal,3514,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3334,Flesberg,2790,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3336,Rollag,1452,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3338,Nore og Uvdal,2459,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3401,Kongsvinger,18191,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3403,Hamar,33817,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3405,Lillehammer,29669,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3407,Gj�vik,31350,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3411,Ringsaker,36199,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3412,L�ten,7951,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3413,Stange,21839,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3414,Nord-Odal,4978,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3415,S�r-Odal,8165,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3416,Eidskog,6103,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3417,Grue,4463,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3418,�snes,7216,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3419,V�ler (Innlandet),3614,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3420,Elverum,21937,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3421,Trysil,6474,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3422,�mot,4191,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3423,Stor-Elvdal,2239,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3424,Rendalen,1836,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3425,Engerdal,1287,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3426,Tolga,1609,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3427,Tynset,5762,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3428,Alvdal,2492,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3429,Folldal,1525,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3430,Os,1871,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3431,Dovre,2523,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3432,Lesja,1966,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3433,Skj�k,2185,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3434,Lom,2239,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3435,V�g�,3553,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3436,Nord-Fron,5493,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3437,Sel,5469,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3438,S�r-Fron,3108,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3439,Ringebu,4497,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3440,�yer,5130,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3441,Gausdal,6147,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3442,�stre Toten,14925,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3443,Vestre Toten,13612,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3446,Gran,13689,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3447,S�ndre Land,5603,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3448,Nordre Land,6510,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3449,S�r-Aurdal,2841,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3450,Etnedal,1593,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3451,Nord-Aurdal,6424,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3452,Vestre Slidre,2190,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3453,�ystre Slidre,3347,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3454,Vang,1666,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3901,Horten,28173,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3903,Holmestrand,27086,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3905,T�nsberg,60246,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3907,Sandefjord,67062,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3909,Larvik,49022,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,3911,F�rder,27743,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4001,Porsgrunn,37435,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4003,Skien,56906,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4005,Notodden,13389,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4010,Siljan,2377,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4012,Bamble,14267,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4014,Krager�,10378,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4016,Drangedal,4056,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4018,Nome,6529,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4020,Midt-Telemark,11157,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4022,Seljord,2959,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4024,Hjartdal,1638,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4026,Tinn,5515,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4028,Kviteseid,2463,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4030,Nissedal,1509,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4032,Fyresdal,1274,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4034,Tokke,2242,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4036,Vinje,3829,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4201,Ris�r,6683,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4202,Grimstad,25569,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4203,Arendal,46603,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4204,Kristiansand,119287,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4205,Lindesnes,23702,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4206,Farsund,9949,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4207,Flekkefjord,9373,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4211,Gjerstad,2502,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4212,Veg�rshei,2253,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4213,Tvedestrand,6430,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4214,Froland,6299,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4215,Lillesand,11822,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4216,Birkenes,5447,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4217,�mli,1805,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4218,Iveland,1386,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4219,Evje og Hornnes,3842,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4220,Bygland,1167,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4221,Valle,1209,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4222,Bykle,1057,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4223,Vennesla,15772,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4224,�seral,904,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4225,Lyngdal,10922,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4226,H�gebostad,1794,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4227,Kvinesdal,6242,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4228,Sirdal,1911,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4601,Bergen,294860,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4602,Kinn,17356,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4611,Etne,4115,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4612,Sveio,5766,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4613,B�mlo,12531,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4614,Stord,19276,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4615,Fitjar,3237,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4616,Tysnes,3053,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4617,Kvinnherad,13236,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4618,Ullensvang,10929,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4619,Eidfjord,985,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4620,Ulvik,1114,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4621,Voss,16438,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4622,Kvam,8490,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4623,Samnanger,2489,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4624,Bj�rnafjorden,26753,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4625,Austevoll,5515,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4626,�ygarden,40641,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4627,Ask�y,30600,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4628,Vaksdal,3899,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4629,Modalen,397,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4630,Oster�y,8231,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4631,Alver,30285,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4632,Austrheim,2947,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4633,Fedje,529,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4634,Masfjorden,1672,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4635,Gulen,2301,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4636,Solund,742,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4637,Hyllestad,1275,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4638,H�yanger,3883,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4639,Vik,2532,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4640,Sogndal,12552,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4641,Aurland,1866,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4642,L�rdal,2223,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4643,�rdal,5178,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4644,Luster,5478,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4645,Askvoll,2924,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4646,Fjaler,2948,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4647,Sunnfjord,22804,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4648,Bremanger,3381,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4649,Stad,9616,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4650,Gloppen,5976,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,4651,Stryn,7319,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5001,Trondheim - Tr�ante,218460,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5006,Steinkjer - St�entje,24007,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5007,Namsos - N�avmesjenjaelmie,15112,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5014,Fr�ya,5794,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5020,Osen,911,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5021,Oppdal,7421,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5022,Rennebu,2514,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5025,R�ros - Rosse,5638,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5026,Holt�len,2037,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5027,Midtre Gauldal,6088,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5028,Melhus,17828,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5029,Skaun,8574,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5031,Malvik,14961,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5032,Selbu,4258,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5033,Tydal,773,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5034,Mer�ker,2460,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5035,Stj�rdal,25108,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5036,Frosta,2667,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5037,Levanger - Levangke,20807,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5038,Verdal,15435,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5041,Sn�ase - Sn�sa,2141,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5042,Lierne,1302,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5043,Raarvihke - R�yrvik,439,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5044,Namsskogan,803,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5045,Grong,2292,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5046,H�ylandet,1230,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5047,Overhalla,3944,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5049,Flatanger,1110,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5052,Leka,596,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5053,Inder�y,7066,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5054,Indre Fosen,10006,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5055,Heim,6075,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5056,Hitra,5568,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5057,�rland,10706,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5058,�fjord,4340,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5059,Orkland,18840,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5060,N�r�ysund,9920,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5061,Rindal,1935,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5501,Troms�,79943,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5503,Harstad - H�rstt�k,25204,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5510,Kv�fjord,2901,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5512,Dielddanuorri - Tjeldsund,4144,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5514,Ibestad,1287,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5516,Gratangen - Rivtt�k,1062,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5518,Loab�k - Lavangen,1002,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5520,Bardu,4004,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5522,Salangen,2132,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5524,M�lselv,6819,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5526,S�rreisa,3528,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5528,Dyr�y,1077,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5530,Senja,14946,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5532,Balsfjord,5625,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5534,Karls�y,2235,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5536,Lyngen - Ivgu - Yyke�,2732,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5538,Storfjord - Omasvuotna - Omasvuono,1848,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5540,G�ivuotna - K�fjord - Kaivuono,1939,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5542,Skjerv�y,2802,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5544,Nordreisa - R�isa - Raisi,4863,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5546,Kv�nangen,1125,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5601,Alta,22074,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5603,Hammerfest - H�mmerfeasta,11391,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5605,S�r-Varanger,9947,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5607,Vads�,5808,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5610,K�r�sjohka - Karasjok,2524,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5612,Guovdageaidnu - Kautokeino,2886,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5614,Loppa,846,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5616,Hasvik,987,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5618,M�s�y,1089,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5620,Nordkapp,2945,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5622,Porsanger - Pors�ngu - Porsanki,3906,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5624,Lebesby,1249,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5626,Gamvik,1019,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5628,Deatnu - Tana,2806,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5630,Berlev�g,864,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5632,B�tsfjord,2104,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5634,Vard�,1969,people,provenance/norway_first_harvest_manifest.json,country_local
+norway,population,2026,municipality,5636,Unj�rga - Nesseby,874,people,provenance/norway_first_harvest_manifest.json,country_local

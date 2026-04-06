@@ -1,0 +1,358 @@
+country_id,factor_id,year,public_geography_type,public_geography_id,municipality,value,unit,provenance_ref,comparability_status
+norway,turnout,2025,municipality,0301,Oslo - Oslove,81.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1101,Eigersund,78.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1103,Stavanger,82.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1106,Haugesund,78.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1108,Sandnes,79.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1111,Sokndal,85.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1112,Lund,82.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1114,Bjerkreim,83.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1119,H�,82.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1120,Klepp,81.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1121,Time,84.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1122,Gjesdal,82.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1124,Sola,82.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1127,Randaberg,83.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1130,Strand,81.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1133,Hjelmeland,84.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1134,Suldal,84.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1135,Sauda,80.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1144,Kvits�y,86.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1145,Bokn,84.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1146,Tysv�r,83.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1149,Karm�y,79.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1151,Utsira,92.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1160,Vindafjord,81.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1505,Kristiansund,76.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1506,Molde,80.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1508,�lesund,81.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1511,Vanylven,82.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1514,Sande,84.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1515,Her�y (M�re og Romsdal),81.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1516,Ulstein,83.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1517,Hareid,80.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1520,�rsta,81.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1525,Stranda,79.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1528,Sykkylven,80.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1531,Sula,81.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1532,Giske,83.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1535,Vestnes,80.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1539,Rauma,79.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1547,Aukra,79.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1554,Aver�y,79.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1557,Gjemnes,80.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1560,Tingvoll,80.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1563,Sunndal,77.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1566,Surnadal,75.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1573,Sm�la,81.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1576,Aure,78.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1577,Volda,83.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1578,Fjord,80.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1579,Hustadvika,79.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1580,Haram,81.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1804,Bod�,79.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1806,Narvik,74.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1811,Bindal,81.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1812,S�mna,80.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1813,Br�nn�y,76.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1815,Vega,80.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1816,Vevelstad,74.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1818,Her�y (Nordland),71.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1820,Alstahaug,73.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1822,Leirfjord,80.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1824,Vefsn,75.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1825,Grane,76.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1826,Aarborte - Hattfjelldal,77.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1827,D�nna,77.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1828,Nesna,77.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1832,Hemnes,77.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1833,Rana - Raane,76.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1834,Lur�y,76.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1835,Tr�na,80.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1836,R�d�y,80.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1837,Mel�y,72.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1838,Gildesk�l,77.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1839,Beiarn,81.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1840,Saltdal,76.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1841,Fauske - Fuosko,75.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1845,S�rfold - Fuolld�,78.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1848,Steigen,73.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1851,L�dingen,78.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1853,Evenes - Even�ssi,78.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1856,R�st,76.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1857,V�r�y,72.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1859,Flakstad,73.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1860,Vestv�g�y,75.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1865,V�gan,74.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1866,Hadsel,75.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1867,B�,73.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1868,�ksnes,73.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1870,Sortland - Suort�,74.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1871,And�y,76.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1874,Moskenes,66.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,1875,H�bmer - Hamar�y,77.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3101,Halden,75.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3103,Moss,78.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3105,Sarpsborg,73.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3107,Fredrikstad,76.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3110,Hvaler,84.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3112,R�de,81.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3114,V�ler (�stfold),79.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3116,Skiptvet,79.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3118,Indre �stfold,75.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3120,Rakkestad,76.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3122,Marker,78.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3124,Aremark,82.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3201,B�rum,86.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3203,Asker,84.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3205,Lillestr�m,77.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3207,Nordre Follo,83.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3209,Ullensaker,74.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3212,Nesodden,87.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3214,Frogn,85.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3216,Vestby,81.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3218,�s,83.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3220,Enebakk,78.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3222,L�renskog,76.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3224,R�lingen,79.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3226,Aurskog-H�land,78.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3228,Nes,77.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3230,Gjerdrum,82.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3232,Nittedal,81.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3234,Lunner,82.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3236,Jevnaker,80.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3238,Nannestad,76.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3240,Eidsvoll,76.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3242,Hurdal,78.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3301,Drammen,75.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3303,Kongsberg,79.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3305,Ringerike,77.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3310,Hole,82.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3312,Lier,81.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3314,�vre Eiker,79.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3316,Modum,77.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3318,Kr�dsherad,80.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3320,Fl�,81.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3322,Nesbyen,78.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3324,Gol,78.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3326,Hemsedal,85.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3328,�l,84.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3330,Hol,82.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3332,Sigdal,80.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3334,Flesberg,79.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3336,Rollag,80.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3338,Nore og Uvdal,78.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3401,Kongsvinger,75.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3403,Hamar,80.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3405,Lillehammer,80.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3407,Gj�vik,76.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3411,Ringsaker,76.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3412,L�ten,78.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3413,Stange,80.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3414,Nord-Odal,75.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3415,S�r-Odal,77.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3416,Eidskog,75.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3417,Grue,73.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3418,�snes,74.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3419,V�ler (Innlandet),76.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3420,Elverum,78.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3421,Trysil,78.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3422,�mot,75.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3423,Stor-Elvdal,76.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3424,Rendalen,83.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3425,Engerdal,82.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3426,Tolga,83.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3427,Tynset,81.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3428,Alvdal,79.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3429,Folldal,84.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3430,Os,81.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3431,Dovre,76.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3432,Lesja,79.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3433,Skj�k,79.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3434,Lom,80.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3435,V�g�,76.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3436,Nord-Fron,78.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3437,Sel,75.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3438,S�r-Fron,78.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3439,Ringebu,75.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3440,�yer,79.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3441,Gausdal,76.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3442,�stre Toten,76.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3443,Vestre Toten,75.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3446,Gran,79.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3447,S�ndre Land,75.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3448,Nordre Land,76.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3449,S�r-Aurdal,78.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3450,Etnedal,78.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3451,Nord-Aurdal,76.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3452,Vestre Slidre,79.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3453,�ystre Slidre,76.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3454,Vang,81.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3901,Horten,79.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3903,Holmestrand,80.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3905,T�nsberg,81.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3907,Sandefjord,77.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3909,Larvik,78.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,3911,F�rder,82.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4001,Porsgrunn,78.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4003,Skien,76.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4005,Notodden,77.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4010,Siljan,81.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4012,Bamble,78.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4014,Krager�,78.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4016,Drangedal,79.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4018,Nome,77.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4020,Midt-Telemark,77.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4022,Seljord,77.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4024,Hjartdal,80.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4026,Tinn,77.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4028,Kviteseid,77.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4030,Nissedal,83.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4032,Fyresdal,81.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4034,Tokke,80.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4036,Vinje,80.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4201,Ris�r,79.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4202,Grimstad,79.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4203,Arendal,78.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4204,Kristiansand,80.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4205,Lindesnes,78.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4206,Farsund,80.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4207,Flekkefjord,79.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4211,Gjerstad,76.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4212,Veg�rshei,82.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4213,Tvedestrand,79.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4214,Froland,78.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4215,Lillesand,80.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4216,Birkenes,79.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4217,�mli,79.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4218,Iveland,83.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4219,Evje og Hornnes,78.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4220,Bygland,80.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4221,Valle,80.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4222,Bykle,84.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4223,Vennesla,79.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4224,�seral,83.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4225,Lyngdal,80.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4226,H�gebostad,83.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4227,Kvinesdal,79.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4228,Sirdal,82.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4601,Bergen,82.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4602,Kinn,79.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4611,Etne,81.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4612,Sveio,83.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4613,B�mlo,83.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4614,Stord,81.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4615,Fitjar,85.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4616,Tysnes,84.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4617,Kvinnherad,79.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4618,Ullensvang,81.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4619,Eidfjord,82.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4620,Ulvik,83.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4621,Voss,80.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4622,Kvam,83.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4623,Samnanger,82.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4624,Bj�rnafjorden,83.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4625,Austevoll,85.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4626,�ygarden,82.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4627,Ask�y,82.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4628,Vaksdal,82.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4629,Modalen,81.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4630,Oster�y,82.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4631,Alver,82.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4632,Austrheim,82.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4633,Fedje,90.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4634,Masfjorden,85.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4635,Gulen,84.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4636,Solund,81.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4637,Hyllestad,82.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4638,H�yanger,78.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4639,Vik,80.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4640,Sogndal,82.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4641,Aurland,81.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4642,L�rdal,82.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4643,�rdal,80.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4644,Luster,83.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4645,Askvoll,80.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4646,Fjaler,80.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4647,Sunnfjord,82.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4648,Bremanger,81.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4649,Stad,81.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4650,Gloppen,83.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,4651,Stryn,80.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5001,Trondheim - Tr�ante,82.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5006,Steinkjer - St�entje,78.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5007,Namsos - N�avmesjenjaelmie,77.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5014,Fr�ya,77.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5020,Osen,77.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5021,Oppdal,82.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5022,Rennebu,77.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5025,R�ros - Rosse,81.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5026,Holt�len,84.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5027,Midtre Gauldal,78.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5028,Melhus,80.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5029,Skaun,81.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5031,Malvik,83.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5032,Selbu,77.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5033,Tydal,84.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5034,Mer�ker,75.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5035,Stj�rdal,79.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5036,Frosta,80.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5037,Levanger - Levangke,79.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5038,Verdal,76.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5041,Sn�ase - Sn�sa,83.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5042,Lierne,73.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5043,Raarvihke - R�yrvik,82.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5044,Namsskogan,78.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5045,Grong,80.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5046,H�ylandet,82.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5047,Overhalla,80.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5049,Flatanger,80.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5052,Leka,79.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5053,Inder�y,82.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5054,Indre Fosen,76.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5055,Heim,78.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5056,Hitra,75.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5057,�rland,76.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5058,�fjord,78.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5059,Orkland,77.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5060,N�r�ysund,75.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5061,Rindal,75.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5501,Troms�,80.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5503,Harstad - H�rstt�k,76.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5510,Kv�fjord,75.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5512,Dielddanuorri - Tjeldsund,77.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5514,Ibestad,75.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5516,Gratangen - Rivtt�k,67.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5518,Loab�k - Lavangen,76.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5520,Bardu,81.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5522,Salangen,75.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5524,M�lselv,77.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5526,S�rreisa,78.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5528,Dyr�y,80.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5530,Senja,74.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5532,Balsfjord,75.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5534,Karls�y,74.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5536,Lyngen - Ivgu - Yyke�,76.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5538,Storfjord - Omasvuotna - Omasvuono,79.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5540,G�ivuotna - K�fjord - Kaivuono,75.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5542,Skjerv�y,71.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5544,Nordreisa - R�isa - Raisi,73.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5546,Kv�nangen,72.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5601,Alta,74.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5603,Hammerfest - H�mmerfeasta,72.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5605,S�r-Varanger,74.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5607,Vads�,76.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5610,K�r�sjohka - Karasjok,73.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5612,Guovdageaidnu - Kautokeino,74.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5614,Loppa,77.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5616,Hasvik,73.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5618,M�s�y,68.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5620,Nordkapp,73.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5622,Porsanger - Pors�ngu - Porsanki,74.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5624,Lebesby,73.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5626,Gamvik,70.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5628,Deatnu - Tana,75.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5630,Berlev�g,71.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5632,B�tsfjord,68.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5634,Vard�,72.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,turnout,2025,municipality,5636,Unj�rga - Nesseby,77.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped

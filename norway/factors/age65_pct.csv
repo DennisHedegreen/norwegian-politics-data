@@ -1,0 +1,1072 @@
+country_id,factor_id,year,public_geography_type,public_geography_id,municipality,value,unit,provenance_ref,comparability_status
+norway,age65,2024,municipality,0301,Oslo - Oslove,13.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1101,Eigersund,19.63,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1103,Stavanger,15.69,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1106,Haugesund,18.46,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1108,Sandnes,14.24,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1111,Sokndal,22.05,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1112,Lund,20.86,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1114,Bjerkreim,17.01,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1119,H�,15.81,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1120,Klepp,13.78,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1121,Time,16.02,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1122,Gjesdal,13.38,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1124,Sola,14.27,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1127,Randaberg,16.33,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1130,Strand,17.22,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1133,Hjelmeland,23.27,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1134,Suldal,22.94,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1135,Sauda,22.44,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1144,Kvits�y,24.26,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1145,Bokn,23.56,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1146,Tysv�r,17.42,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1149,Karm�y,18.43,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1151,Utsira,21.86,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1160,Vindafjord,19.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1505,Kristiansund,22.19,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1506,Molde,21.74,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1508,�lesund,18.32,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1511,Vanylven,30.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1514,Sande,24.69,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1515,Her�y (M�re og Romsdal),21.44,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1516,Ulstein,18.34,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1517,Hareid,19.67,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1520,�rsta,21.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1525,Stranda,24.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1528,Sykkylven,22.58,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1531,Sula,17.67,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1532,Giske,18.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1535,Vestnes,23.69,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1539,Rauma,23.24,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1547,Aukra,20.83,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1554,Aver�y,23.16,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1557,Gjemnes,24.22,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1560,Tingvoll,26.27,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1563,Sunndal,23.47,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1566,Surnadal,25.33,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1573,Sm�la,26.91,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1576,Aure,26.64,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1577,Volda,20.37,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1578,Fjord,27.29,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1579,Hustadvika,20.92,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1580,Haram,22.67,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1804,Bod�,17.82,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1806,Narvik,23.42,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1811,Bindal,32.17,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1812,S�mna,24.09,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1813,Br�nn�y,21.28,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1815,Vega,27.81,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1816,Vevelstad,30.63,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1818,Her�y (Nordland),23.62,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1820,Alstahaug,22.87,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1822,Leirfjord,22.66,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1824,Vefsn,22.55,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1825,Grane,27.37,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1826,Aarborte - Hattfjelldal,29.05,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1827,D�nna,27.33,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1828,Nesna,22.01,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1832,Hemnes,24.68,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1833,Rana - Raane,21.58,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1834,Lur�y,26.46,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1835,Tr�na,18.78,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1836,R�d�y,26.43,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1837,Mel�y,23.88,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1838,Gildesk�l,29.16,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1839,Beiarn,31.73,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1840,Saltdal,24.94,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1841,Fauske - Fuossko,24.06,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1845,S�rfold - Fuolld�,28.47,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1848,Steigen,26.12,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1851,L�dingen,32.18,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1853,Evenes - Even�ssi,30.53,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1856,R�st,26.52,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1857,V�r�y,23.72,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1859,Flakstad,26.53,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1860,Vestv�g�y,20.79,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1865,V�gan,21.28,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1866,Hadsel,23.66,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1867,B�,30.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1868,�ksnes,22.41,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1870,Sortland - Suort�,20.49,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1871,And�y,26.91,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1874,Moskenes,28.09,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,1875,H�bmer - Hamar�y,28.22,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3101,Halden,21.92,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3103,Moss,21.04,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3105,Sarpsborg,19.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3107,Fredrikstad,20.57,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3110,Hvaler,32.09,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3112,R�de,21.97,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3114,V�ler (�stfold),15.88,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3116,Skiptvet,19.75,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3118,Indre �stfold,19.77,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3120,Rakkestad,22.17,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3122,Marker,26.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3124,Aremark,25.91,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3201,B�rum,18.16,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3203,Asker,18.01,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3205,Lillestr�m,15.45,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3207,Nordre Follo,17.69,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3209,Ullensaker,13.32,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3212,Nesodden,18.63,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3214,Frogn,22.51,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3216,Vestby,17.98,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3218,�s,14.73,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3220,Enebakk,16.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3222,L�renskog,15.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3224,R�lingen,13.93,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3226,Aurskog-H�land,20.64,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3228,Nes,17.79,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3230,Gjerdrum,16.76,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3232,Nittedal,15.05,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3234,Lunner,20.72,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3236,Jevnaker,21.64,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3238,Nannestad,13.83,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3240,Eidsvoll,16.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3242,Hurdal,22.16,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3301,Drammen,18.39,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3303,Kongsberg,20.44,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3305,Ringerike,22.04,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3310,Hole,19.69,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3312,Lier,17.36,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3314,�vre Eiker,19.13,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3316,Modum,22.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3318,Kr�dsherad,23.83,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3320,Fl�,24.48,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3322,Nesbyen,27.63,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3324,Gol,22.18,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3326,Hemsedal,16.35,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3328,�l,23.75,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3330,Hol,24.58,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3332,Sigdal,26.55,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3334,Flesberg,23.44,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3336,Rollag,29.53,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3338,Nore og Uvdal,26.11,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3401,Kongsvinger,25.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3403,Hamar,23.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3405,Lillehammer,21.99,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3407,Gj�vik,21.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3411,Ringsaker,20.95,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3412,L�ten,22.46,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3413,Stange,21.51,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3414,Nord-Odal,27.36,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3415,S�r-Odal,22.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3416,Eidskog,28.03,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3417,Grue,30.83,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3418,�snes,27.89,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3419,V�ler (Hedmark),29.07,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3420,Elverum,21.61,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3421,Trysil,26.17,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3422,�mot,23.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3423,Stor-Elvdal,31.46,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3424,Rendalen,32.66,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3425,Engerdal,30.49,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3426,Tolga,23.57,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3427,Tynset,23.61,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3428,Alvdal,21.58,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3429,Folldal,30.35,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3430,Os,26.23,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3431,Dovre,29.48,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3432,Lesja,27.53,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3433,Skj�k,29.61,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3434,Lom,26.94,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3435,V�g�,26.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3436,Nord-Fron,26.23,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3437,Sel,26.56,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3438,S�r-Fron,24.82,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3439,Ringebu,25.74,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3440,�yer,22.64,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3441,Gausdal,24.19,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3442,�stre Toten,23.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3443,Vestre Toten,22.31,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3446,Gran,23.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3447,S�ndre Land,25.27,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3448,Nordre Land,24.95,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3449,S�r-Aurdal,27.57,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3450,Etnedal,25.77,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3451,Nord-Aurdal,25.07,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3452,Vestre Slidre,24.15,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3453,�ystre Slidre,23.83,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3454,Vang,23.71,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3901,Horten,21.98,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3903,Holmestrand,20.53,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3905,T�nsberg,19.47,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3907,Sandefjord,20.44,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3909,Larvik,23.12,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,3911,F�rder,23.62,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4001,Porsgrunn,21.11,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4003,Skien,21.01,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4005,Notodden,22.96,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4010,Siljan,23.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4012,Bamble,23.64,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4014,Krager�,26.56,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4016,Drangedal,23.45,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4018,Nome,23.75,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4020,Midt-Telemark,20.54,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4022,Seljord,25.24,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4024,Hjartdal,26.26,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4026,Tinn,27.06,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4028,Kviteseid,25.31,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4030,Nissedal,26.85,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4032,Fyresdal,24.84,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4034,Tokke,24.77,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4036,Vinje,23.37,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4201,Ris�r,27.03,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4202,Grimstad,17.59,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4203,Arendal,21.12,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4204,Kristiansand,16.79,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4205,Lindesnes,20.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4206,Farsund,22.47,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4207,Flekkefjord,21.83,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4211,Gjerstad,24.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4212,Veg�rshei,18.17,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4213,Tvedestrand,24.26,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4214,Froland,17.43,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4215,Lillesand,20.22,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4216,Birkenes,16.93,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4217,�mli,23.75,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4218,Iveland,16.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4219,Evje og Hornnes,20.49,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4220,Bygland,25.42,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4221,Valle,26.72,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4222,Bykle,18.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4223,Vennesla,16.66,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4224,�seral,17.98,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4225,Lyngdal,18.43,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4226,H�gebostad,18.92,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4227,Kvinesdal,20.28,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4228,Sirdal,19.81,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4601,Bergen,16.55,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4602,Kinn,20.44,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4611,Etne,22.79,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4612,Sveio,20.05,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4613,B�mlo,19.56,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4614,Stord,18.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4615,Fitjar,21.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4616,Tysnes,27.58,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4617,Kvinnherad,23.85,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4618,Ullensvang,25.02,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4619,Eidfjord,25.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4620,Ulvik,25.44,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4621,Voss,22.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4622,Kvam,24.75,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4623,Samnanger,24.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4624,Bj�rnafjorden,18.47,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4625,Austevoll,19.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4626,�ygarden,16.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4627,Ask�y,16.06,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4628,Vaksdal,23.99,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4629,Modalen,21.09,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4630,Oster�y,20.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4631,Alver,19.87,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4632,Austrheim,24.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4633,Fedje,29.67,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4634,Masfjorden,26.86,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4635,Gulen,24.53,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4636,Solund,29.33,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4637,Hyllestad,28.15,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4638,H�yanger,26.19,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4639,Vik,28.15,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4640,Sogndal,18.71,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4641,Aurland,21.28,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4642,L�rdal,24.81,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4643,�rdal,23.84,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4644,Luster,22.84,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4645,Askvoll,27.43,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4646,Fjaler,23.49,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4647,Sunnfjord,18.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4648,Bremanger,27.42,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4649,Stad,22.81,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4650,Gloppen,23.61,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,4651,Stryn,20.66,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5001,Trondheim - Tr�ante,15.61,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5006,Steinkjer - St�entje,23.76,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5007,Namsos - N�avmesjenjaelmie,22.36,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5014,Fr�ya,17.33,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5020,Osen,32.52,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5021,Oppdal,22.37,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5022,Rennebu,27.58,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5025,R�ros - Rosse,26.46,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5026,Holt�len,28.16,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5027,Midtre Gauldal,21.29,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5028,Melhus,18.29,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5029,Skaun,16.15,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5031,Malvik,15.34,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5032,Selbu,24.24,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5033,Tydal,30.92,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5034,Mer�ker,25.96,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5035,Stj�rdal,20.05,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5036,Frosta,24.73,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5037,Levanger - Levangke,20.99,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5038,Verdal,22.23,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5041,Sn�ase - Sn�sa,25.17,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5042,Lierne,28.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5043,Raarvihke - R�yrvik,32.62,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5044,Namsskogan,28.52,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5045,Grong,25.93,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5046,H�ylandet,27.09,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5047,Overhalla,19.27,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5049,Flatanger,28.67,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5052,Leka,30.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5053,Inder�y,23.21,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5054,Indre Fosen,24.73,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5055,Heim,25.65,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5056,Hitra,20.46,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5057,�rland,22.12,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5058,�fjord,25.44,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5059,Orkland,22.73,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5060,N�r�ysund,19.61,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5061,Rindal,26.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5501,Troms�,15.39,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5503,Harstad - H�rstt�k,22.03,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5510,Kv�fjord,25.24,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5512,Dielddanuorri - Tjeldsund,28.57,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5514,Ibestad,33.33,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5516,Gratangen - Rivtt�k,27.01,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5518,Loab�k - Lavangen,27.38,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5520,Bardu,21.27,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5522,Salangen,26.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5524,M�lselv,21.57,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5526,S�rreisa,22.21,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5528,Dyr�y,31.03,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5530,Senja,22.49,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5532,Balsfjord,25.04,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5534,Karls�y,29.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5536,Lyngen - Ivgu - Yyke�,29.64,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5538,Storfjord - Omasvuotna - Omasvuono,28.88,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5540,G�ivuotna - K�fjord - Kaivuono,30.55,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5542,Skjerv�y,22.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5544,Nordreisa - R�isa - Raisi,23.11,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5546,Kv�nangen,28.09,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5601,Alta,15.52,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5603,Hammerfest - H�mmerfeasta,17.97,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5605,S�r-Varanger,20.12,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5607,Vads�,20.92,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5610,K�r�sjohka - Karasjok,21.83,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5612,Guovdageaidnu - Kautokeino,20.22,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5614,Loppa,29.86,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5616,Hasvik,22.78,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5618,M�s�y,27.22,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5620,Nordkapp,23.01,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5622,Porsanger - Pors�ngu - Porsanki,24.51,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5624,Lebesby,23.29,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5626,Gamvik,22.62,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5628,Deatnu - Tana,24.33,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5630,Berlev�g,25.56,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5632,B�tsfjord,18.74,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5634,Vard�,25.96,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2024,municipality,5636,Unj�rga - Nesseby,30.15,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,0301,Oslo - Oslove,13.39,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1101,Eigersund,19.82,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1103,Stavanger,16.05,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1106,Haugesund,18.88,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1108,Sandnes,14.49,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1111,Sokndal,22.25,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1112,Lund,21.17,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1114,Bjerkreim,17.52,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1119,H�,16.09,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1120,Klepp,13.94,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1121,Time,16.24,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1122,Gjesdal,13.54,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1124,Sola,14.54,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1127,Randaberg,16.84,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1130,Strand,17.38,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1133,Hjelmeland,23.05,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1134,Suldal,23.36,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1135,Sauda,22.74,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1144,Kvits�y,24.39,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1145,Bokn,23.18,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1146,Tysv�r,17.69,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1149,Karm�y,18.67,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1151,Utsira,25.35,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1160,Vindafjord,20.12,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1505,Kristiansund,22.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1506,Molde,22.05,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1508,�lesund,18.49,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1511,Vanylven,30.94,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1514,Sande,25.13,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1515,Her�y (M�re og Romsdal),21.53,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1516,Ulstein,18.71,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1517,Hareid,20.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1520,�rsta,22.24,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1525,Stranda,23.68,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1528,Sykkylven,23.37,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1531,Sula,17.94,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1532,Giske,18.48,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1535,Vestnes,23.75,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1539,Rauma,24.11,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1547,Aukra,20.86,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1554,Aver�y,23.41,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1557,Gjemnes,24.56,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1560,Tingvoll,25.77,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1563,Sunndal,24.45,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1566,Surnadal,25.75,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1573,Sm�la,27.49,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1576,Aure,27.55,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1577,Volda,20.72,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1578,Fjord,27.61,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1579,Hustadvika,21.45,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1580,Haram,23.14,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1804,Bod�,18.24,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1806,Narvik,23.69,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1811,Bindal,32.39,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1812,S�mna,24.66,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1813,Br�nn�y,21.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1815,Vega,29.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1816,Vevelstad,31.28,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1818,Her�y (Nordland),23.89,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1820,Alstahaug,23.08,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1822,Leirfjord,22.68,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1824,Vefsn,22.89,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1825,Grane,27.62,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1826,Aarborte - Hattfjelldal,29.04,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1827,D�nna,27.44,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1828,Nesna,22.77,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1832,Hemnes,25.66,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1833,Rana - Raane,22.05,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1834,Lur�y,25.87,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1835,Tr�na,19.65,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1836,R�d�y,26.21,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1837,Mel�y,24.31,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1838,Gildesk�l,28.86,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1839,Beiarn,32.01,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1840,Saltdal,25.34,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1841,Fauske - Fuossko,24.66,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1845,S�rfold - Fuolld�,28.53,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1848,Steigen,26.45,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1851,L�dingen,32.46,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1853,Evenes - Even�ssi,30.25,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1856,R�st,27.29,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1857,V�r�y,24.22,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1859,Flakstad,26.54,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1860,Vestv�g�y,21.36,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1865,V�gan,21.69,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1866,Hadsel,23.65,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1867,B�,31.41,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1868,�ksnes,22.52,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1870,Sortland - Suort�,20.72,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1871,And�y,27.19,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1874,Moskenes,27.35,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,1875,H�bmer - Hamar�y,28.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3101,Halden,22.26,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3103,Moss,21.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3105,Sarpsborg,19.76,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3107,Fredrikstad,20.89,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3110,Hvaler,33.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3112,R�de,22.47,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3114,V�ler (�stfold),16.08,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3116,Skiptvet,19.84,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3118,Indre �stfold,20.12,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3120,Rakkestad,22.29,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3122,Marker,26.62,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3124,Aremark,26.23,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3201,B�rum,18.55,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3203,Asker,18.24,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3205,Lillestr�m,15.53,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3207,Nordre Follo,17.97,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3209,Ullensaker,13.45,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3212,Nesodden,19.06,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3214,Frogn,23.14,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3216,Vestby,18.16,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3218,�s,15.16,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3220,Enebakk,16.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3222,L�renskog,15.45,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3224,R�lingen,14.14,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3226,Aurskog-H�land,21.03,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3228,Nes,18.19,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3230,Gjerdrum,17.17,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3232,Nittedal,15.32,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3234,Lunner,21.34,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3236,Jevnaker,21.87,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3238,Nannestad,13.97,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3240,Eidsvoll,17.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3242,Hurdal,22.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3301,Drammen,18.59,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3303,Kongsberg,20.57,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3305,Ringerike,22.44,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3310,Hole,20.18,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3312,Lier,17.59,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3314,�vre Eiker,19.43,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3316,Modum,23.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3318,Kr�dsherad,24.92,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3320,Fl�,24.98,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3322,Nesbyen,28.41,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3324,Gol,22.95,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3326,Hemsedal,16.95,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3328,�l,24.67,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3330,Hol,24.65,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3332,Sigdal,27.11,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3334,Flesberg,23.85,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3336,Rollag,30.06,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3338,Nore og Uvdal,26.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3401,Kongsvinger,25.41,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3403,Hamar,22.98,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3405,Lillehammer,22.25,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3407,Gj�vik,21.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3411,Ringsaker,21.36,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3412,L�ten,22.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3413,Stange,21.93,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3414,Nord-Odal,27.93,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3415,S�r-Odal,23.63,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3416,Eidskog,28.67,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3417,Grue,31.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3418,�snes,29.14,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3419,V�ler (Hedmark),29.11,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3420,Elverum,21.78,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3421,Trysil,26.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3422,�mot,24.42,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3423,Stor-Elvdal,32.22,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3424,Rendalen,33.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3425,Engerdal,31.52,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3426,Tolga,23.66,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3427,Tynset,23.84,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3428,Alvdal,22.76,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3429,Folldal,31.56,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3430,Os,26.33,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3431,Dovre,29.77,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3432,Lesja,27.62,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3433,Skj�k,29.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3434,Lom,27.22,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3435,V�g�,26.47,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3436,Nord-Fron,26.72,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3437,Sel,27.51,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3438,S�r-Fron,24.78,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3439,Ringebu,25.82,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3440,�yer,22.59,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3441,Gausdal,24.65,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3442,�stre Toten,23.83,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3443,Vestre Toten,22.57,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3446,Gran,24.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3447,S�ndre Land,25.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3448,Nordre Land,25.31,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3449,S�r-Aurdal,27.89,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3450,Etnedal,28.63,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3451,Nord-Aurdal,26.17,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3452,Vestre Slidre,23.86,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3453,�ystre Slidre,24.52,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3454,Vang,25.12,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3901,Horten,22.44,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3903,Holmestrand,21.12,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3905,T�nsberg,19.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3907,Sandefjord,20.85,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3909,Larvik,23.57,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,3911,F�rder,24.22,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4001,Porsgrunn,21.37,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4003,Skien,21.32,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4005,Notodden,23.36,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4010,Siljan,23.78,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4012,Bamble,24.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4014,Krager�,27.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4016,Drangedal,23.78,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4018,Nome,24.12,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4020,Midt-Telemark,20.53,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4022,Seljord,25.39,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4024,Hjartdal,26.12,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4026,Tinn,26.62,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4028,Kviteseid,25.43,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4030,Nissedal,27.05,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4032,Fyresdal,25.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4034,Tokke,25.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4036,Vinje,23.67,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4201,Ris�r,27.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4202,Grimstad,17.82,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4203,Arendal,21.49,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4204,Kristiansand,17.04,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4205,Lindesnes,21.27,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4206,Farsund,22.77,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4207,Flekkefjord,22.29,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4211,Gjerstad,25.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4212,Veg�rshei,19.69,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4213,Tvedestrand,24.81,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4214,Froland,17.43,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4215,Lillesand,20.43,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4216,Birkenes,17.24,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4217,�mli,24.92,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4218,Iveland,16.51,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4219,Evje og Hornnes,21.39,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4220,Bygland,26.16,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4221,Valle,26.56,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4222,Bykle,17.32,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4223,Vennesla,16.99,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4224,�seral,18.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4225,Lyngdal,18.82,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4226,H�gebostad,18.48,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4227,Kvinesdal,20.66,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4228,Sirdal,19.98,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4601,Bergen,16.83,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4602,Kinn,20.65,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4611,Etne,22.82,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4612,Sveio,20.31,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4613,B�mlo,19.92,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4614,Stord,18.58,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4615,Fitjar,21.88,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4616,Tysnes,27.03,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4617,Kvinnherad,24.28,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4618,Ullensvang,25.33,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4619,Eidfjord,25.65,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4620,Ulvik,26.18,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4621,Voss,22.97,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4622,Kvam,25.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4623,Samnanger,24.33,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4624,Bj�rnafjorden,18.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4625,Austevoll,20.07,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4626,�ygarden,17.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4627,Ask�y,16.36,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4628,Vaksdal,23.74,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4629,Modalen,20.66,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4630,Oster�y,21.37,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4631,Alver,20.24,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4632,Austrheim,24.36,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4633,Fedje,28.98,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4634,Masfjorden,27.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4635,Gulen,24.78,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4636,Solund,30.27,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4637,Hyllestad,29.04,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4638,H�yanger,26.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4639,Vik,28.59,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4640,Sogndal,18.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4641,Aurland,21.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4642,L�rdal,25.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4643,�rdal,24.73,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4644,Luster,23.01,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4645,Askvoll,28.53,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4646,Fjaler,23.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4647,Sunnfjord,19.05,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4648,Bremanger,27.22,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4649,Stad,23.36,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4650,Gloppen,24.11,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,4651,Stryn,21.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5001,Trondheim - Tr�ante,15.87,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5006,Steinkjer - St�entje,24.04,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5007,Namsos - N�avmesjenjaelmie,22.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5014,Fr�ya,17.01,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5020,Osen,32.88,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5021,Oppdal,22.91,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5022,Rennebu,27.38,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5025,R�ros - Rosse,27.44,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5026,Holt�len,29.05,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5027,Midtre Gauldal,21.79,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5028,Melhus,18.27,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5029,Skaun,16.66,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5031,Malvik,15.74,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5032,Selbu,24.55,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5033,Tydal,31.55,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5034,Mer�ker,25.08,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5035,Stj�rdal,20.54,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5036,Frosta,25.18,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5037,Levanger - Levangke,21.26,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5038,Verdal,22.44,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5041,Sn�ase - Sn�sa,25.07,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5042,Lierne,28.65,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5043,Raarvihke - R�yrvik,30.93,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5044,Namsskogan,27.25,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5045,Grong,26.71,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5046,H�ylandet,26.72,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5047,Overhalla,19.99,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5049,Flatanger,29.35,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5052,Leka,31.87,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5053,Inder�y,23.37,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5054,Indre Fosen,24.97,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5055,Heim,25.87,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5056,Hitra,20.65,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5057,�rland,22.24,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5058,�fjord,26.02,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5059,Orkland,22.95,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5060,N�r�ysund,20.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5061,Rindal,26.48,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5501,Troms�,15.77,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5503,Harstad - H�rstt�k,22.33,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5510,Kv�fjord,25.88,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5512,Dielddanuorri - Tjeldsund,29.29,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5514,Ibestad,34.36,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5516,Gratangen - Rivtt�k,27.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5518,Loab�k - Lavangen,27.31,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5520,Bardu,21.69,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5522,Salangen,25.57,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5524,M�lselv,21.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5526,S�rreisa,21.79,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5528,Dyr�y,32.37,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5530,Senja,22.74,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5532,Balsfjord,24.86,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5534,Karls�y,30.05,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5536,Lyngen - Ivgu - Yyke�,30.65,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5538,Storfjord - Omasvuotna - Omasvuono,29.09,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5540,G�ivuotna - K�fjord - Kaivuono,30.95,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5542,Skjerv�y,22.45,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5544,Nordreisa - R�isa - Raisi,23.47,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5546,Kv�nangen,29.35,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5601,Alta,15.76,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5603,Hammerfest - H�mmerfeasta,18.29,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5605,S�r-Varanger,20.71,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5607,Vads�,21.55,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5610,K�r�sjohka - Karasjok,22.58,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5612,Guovdageaidnu - Kautokeino,20.51,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5614,Loppa,29.75,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5616,Hasvik,22.52,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5618,M�s�y,27.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5620,Nordkapp,23.04,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5622,Porsanger - Pors�ngu - Porsanki,24.92,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5624,Lebesby,23.67,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5626,Gamvik,23.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5628,Deatnu - Tana,24.87,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5630,Berlev�g,26.18,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5632,B�tsfjord,19.36,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5634,Vard�,25.88,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2025,municipality,5636,Unj�rga - Nesseby,30.65,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,0301,Oslo - Oslove,13.63,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1101,Eigersund,19.87,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1103,Stavanger,16.38,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1106,Haugesund,19.31,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1108,Sandnes,14.82,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1111,Sokndal,22.47,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1112,Lund,21.83,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1114,Bjerkreim,18.38,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1119,H�,16.38,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1120,Klepp,14.16,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1121,Time,16.62,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1122,Gjesdal,13.94,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1124,Sola,14.89,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1127,Randaberg,17.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1130,Strand,17.59,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1133,Hjelmeland,23.62,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1134,Suldal,23.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1135,Sauda,23.12,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1144,Kvits�y,23.83,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1145,Bokn,22.82,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1146,Tysv�r,18.19,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1149,Karm�y,18.84,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1151,Utsira,26.03,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1160,Vindafjord,20.55,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1505,Kristiansund,22.95,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1506,Molde,22.41,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1508,�lesund,18.78,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1511,Vanylven,31.03,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1514,Sande,25.73,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1515,Her�y (M�re og Romsdal),22.11,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1516,Ulstein,19.04,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1517,Hareid,20.18,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1520,�rsta,22.58,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1525,Stranda,24.28,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1528,Sykkylven,23.85,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1531,Sula,18.12,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1532,Giske,18.68,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1535,Vestnes,23.86,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1539,Rauma,24.32,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1547,Aukra,20.61,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1554,Aver�y,23.61,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1557,Gjemnes,24.85,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1560,Tingvoll,26.13,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1563,Sunndal,25.27,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1566,Surnadal,26.26,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1573,Sm�la,27.28,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1576,Aure,28.09,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1577,Volda,21.29,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1578,Fjord,27.8,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1579,Hustadvika,21.84,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1580,Haram,23.45,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1804,Bod�,18.62,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1806,Narvik,24.06,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1811,Bindal,33.06,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1812,S�mna,25.02,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1813,Br�nn�y,21.85,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1815,Vega,29.03,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1816,Vevelstad,31.24,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1818,Her�y (Nordland),24.81,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1820,Alstahaug,23.37,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1822,Leirfjord,22.99,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1824,Vefsn,23.25,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1825,Grane,28.48,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1826,Aarborte - Hattfjelldal,29.96,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1827,D�nna,28.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1828,Nesna,22.88,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1832,Hemnes,25.75,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1833,Rana - Raane,22.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1834,Lur�y,25.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1835,Tr�na,19.41,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1836,R�d�y,26.93,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1837,Mel�y,24.45,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1838,Gildesk�l,29.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1839,Beiarn,32.66,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1840,Saltdal,24.87,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1841,Fauske - Fuossko,25.19,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1845,S�rfold - Fuolld�,28.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1848,Steigen,27.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1851,L�dingen,34.47,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1853,Evenes - Even�ssi,29.92,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1856,R�st,27.39,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1857,V�r�y,24.24,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1859,Flakstad,26.64,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1860,Vestv�g�y,21.49,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1865,V�gan,22.17,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1866,Hadsel,23.96,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1867,B�,31.16,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1868,�ksnes,22.52,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1870,Sortland - Suort�,20.86,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1871,And�y,27.25,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1874,Moskenes,27.05,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,1875,H�bmer - Hamar�y,27.49,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3101,Halden,22.75,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3103,Moss,21.65,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3105,Sarpsborg,19.91,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3107,Fredrikstad,21.26,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3110,Hvaler,34.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3112,R�de,22.73,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3114,V�ler (�stfold),15.73,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3116,Skiptvet,20.43,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3118,Indre �stfold,20.32,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3120,Rakkestad,22.65,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3122,Marker,27.06,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3124,Aremark,26.81,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3201,B�rum,18.98,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3203,Asker,18.59,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3205,Lillestr�m,15.72,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3207,Nordre Follo,18.23,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3209,Ullensaker,13.59,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3212,Nesodden,19.58,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3214,Frogn,23.66,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3216,Vestby,18.32,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3218,�s,15.63,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3220,Enebakk,16.83,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3222,L�renskog,15.55,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3224,R�lingen,14.33,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3226,Aurskog-H�land,21.34,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3228,Nes,18.67,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3230,Gjerdrum,18.16,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3232,Nittedal,15.85,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3234,Lunner,21.61,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3236,Jevnaker,22.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3238,Nannestad,14.21,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3240,Eidsvoll,17.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3242,Hurdal,22.42,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3301,Drammen,18.79,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3303,Kongsberg,20.83,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3305,Ringerike,22.85,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3310,Hole,20.72,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3312,Lier,17.99,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3314,�vre Eiker,19.86,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3316,Modum,23.52,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3318,Kr�dsherad,25.44,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3320,Fl�,24.33,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3322,Nesbyen,28.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3324,Gol,23.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3326,Hemsedal,17.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3328,�l,24.07,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3330,Hol,24.78,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3332,Sigdal,26.89,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3334,Flesberg,23.69,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3336,Rollag,29.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3338,Nore og Uvdal,27.21,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3401,Kongsvinger,25.62,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3403,Hamar,23.17,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3405,Lillehammer,22.13,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3407,Gj�vik,21.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3411,Ringsaker,21.56,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3412,L�ten,23.02,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3413,Stange,22.28,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3414,Nord-Odal,27.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3415,S�r-Odal,24.24,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3416,Eidskog,29.15,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3417,Grue,31.59,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3418,�snes,29.61,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3419,V�ler (Hedmark),28.97,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3420,Elverum,22.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3421,Trysil,26.88,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3422,�mot,24.31,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3423,Stor-Elvdal,31.67,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3424,Rendalen,32.95,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3425,Engerdal,32.01,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3426,Tolga,23.74,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3427,Tynset,24.02,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3428,Alvdal,23.76,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3429,Folldal,31.48,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3430,Os,27.26,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3431,Dovre,30.44,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3432,Lesja,28.38,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3433,Skj�k,29.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3434,Lom,28.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3435,V�g�,26.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3436,Nord-Fron,27.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3437,Sel,28.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3438,S�r-Fron,24.94,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3439,Ringebu,25.77,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3440,�yer,23.26,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3441,Gausdal,25.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3442,�stre Toten,24.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3443,Vestre Toten,22.78,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3446,Gran,24.53,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3447,S�ndre Land,26.22,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3448,Nordre Land,25.96,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3449,S�r-Aurdal,27.53,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3450,Etnedal,23.85,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3451,Nord-Aurdal,26.67,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3452,Vestre Slidre,24.06,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3453,�ystre Slidre,25.25,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3454,Vang,24.73,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3901,Horten,22.79,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3903,Holmestrand,21.61,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3905,T�nsberg,20.31,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3907,Sandefjord,21.27,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3909,Larvik,24.03,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,3911,F�rder,24.74,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4001,Porsgrunn,21.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4003,Skien,21.58,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4005,Notodden,23.62,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4010,Siljan,24.02,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4012,Bamble,24.54,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4014,Krager�,27.69,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4016,Drangedal,23.96,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4018,Nome,24.25,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4020,Midt-Telemark,21.29,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4022,Seljord,25.92,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4024,Hjartdal,26.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4026,Tinn,26.98,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4028,Kviteseid,25.9,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4030,Nissedal,27.63,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4032,Fyresdal,25.27,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4034,Tokke,25.25,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4036,Vinje,24.24,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4201,Ris�r,27.59,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4202,Grimstad,18.23,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4203,Arendal,21.93,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4204,Kristiansand,17.39,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4205,Lindesnes,21.67,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4206,Farsund,23.18,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4207,Flekkefjord,22.51,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4211,Gjerstad,25.18,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4212,Veg�rshei,20.2,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4213,Tvedestrand,25.24,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4214,Froland,17.65,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4215,Lillesand,20.66,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4216,Birkenes,17.37,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4217,�mli,25.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4218,Iveland,17.39,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4219,Evje og Hornnes,21.76,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4220,Bygland,26.74,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4221,Valle,26.39,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4222,Bykle,18.16,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4223,Vennesla,17.37,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4224,�seral,19.14,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4225,Lyngdal,19.11,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4226,H�gebostad,18.78,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4227,Kvinesdal,20.83,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4228,Sirdal,20.41,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4601,Bergen,17.14,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4602,Kinn,21.11,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4611,Etne,23.13,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4612,Sveio,20.6,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4613,B�mlo,20.07,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4614,Stord,19.08,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4615,Fitjar,22.43,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4616,Tysnes,26.92,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4617,Kvinnherad,24.43,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4618,Ullensvang,25.56,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4619,Eidfjord,24.77,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4620,Ulvik,26.48,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4621,Voss,23.25,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4622,Kvam,25.61,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4623,Samnanger,25.47,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4624,Bj�rnafjorden,18.86,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4625,Austevoll,20.11,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4626,�ygarden,17.68,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4627,Ask�y,16.51,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4628,Vaksdal,24.24,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4629,Modalen,23.17,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4630,Oster�y,21.69,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4631,Alver,20.59,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4632,Austrheim,24.33,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4633,Fedje,30.06,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4634,Masfjorden,28.65,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4635,Gulen,24.77,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4636,Solund,30.59,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4637,Hyllestad,30.59,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4638,H�yanger,26.29,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4639,Vik,29.03,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4640,Sogndal,19.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4641,Aurland,22.03,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4642,L�rdal,26.23,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4643,�rdal,25.4,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4644,Luster,23.26,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4645,Askvoll,28.97,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4646,Fjaler,23.91,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4647,Sunnfjord,19.35,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4648,Bremanger,27.71,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4649,Stad,23.78,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4650,Gloppen,24.58,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,4651,Stryn,21.53,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5001,Trondheim - Tr�ante,16.12,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5006,Steinkjer - St�entje,24.31,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5007,Namsos - N�avmesjenjaelmie,23.02,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5014,Fr�ya,17.09,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5020,Osen,33.37,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5021,Oppdal,23.27,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5022,Rennebu,27.41,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5025,R�ros - Rosse,27.97,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5026,Holt�len,29.21,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5027,Midtre Gauldal,22.37,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5028,Melhus,18.56,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5029,Skaun,16.62,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5031,Malvik,16.05,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5032,Selbu,24.35,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5033,Tydal,32.47,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5034,Mer�ker,25.77,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5035,Stj�rdal,20.79,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5036,Frosta,25.72,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5037,Levanger - Levangke,21.64,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5038,Verdal,22.65,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5041,Sn�ase - Sn�sa,25.13,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5042,Lierne,28.65,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5043,Raarvihke - R�yrvik,31.44,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5044,Namsskogan,28.39,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5045,Grong,27.31,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5046,H�ylandet,27.32,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5047,Overhalla,20.31,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5049,Flatanger,29.46,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5052,Leka,32.72,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5053,Inder�y,23.66,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5054,Indre Fosen,25.19,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5055,Heim,26.34,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5056,Hitra,20.15,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5057,�rland,22.3,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5058,�fjord,26.66,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5059,Orkland,23.38,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5060,N�r�ysund,20.48,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5061,Rindal,26.67,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5501,Troms�,16.02,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5503,Harstad - H�rstt�k,22.57,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5510,Kv�fjord,25.96,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5512,Dielddanuorri - Tjeldsund,29.63,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5514,Ibestad,35.74,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5516,Gratangen - Rivtt�k,28.34,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5518,Loab�k - Lavangen,27.35,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5520,Bardu,21.48,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5522,Salangen,26.31,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5524,M�lselv,21.53,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5526,S�rreisa,21.83,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5528,Dyr�y,32.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5530,Senja,23.22,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5532,Balsfjord,25.1,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5534,Karls�y,30.34,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5536,Lyngen - Ivgu - Yyke�,31.04,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5538,Storfjord - Omasvuotna - Omasvuono,28.84,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5540,G�ivuotna - K�fjord - Kaivuono,31.25,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5542,Skjerv�y,22.16,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5544,Nordreisa - R�isa - Raisi,23.42,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5546,Kv�nangen,30.22,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5601,Alta,16.0,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5603,Hammerfest - H�mmerfeasta,18.48,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5605,S�r-Varanger,21.16,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5607,Vads�,21.32,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5610,K�r�sjohka - Karasjok,23.14,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5612,Guovdageaidnu - Kautokeino,20.93,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5614,Loppa,30.14,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5616,Hasvik,22.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5618,M�s�y,27.27,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5620,Nordkapp,23.43,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5622,Porsanger - Pors�ngu - Porsanki,25.5,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5624,Lebesby,23.7,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5626,Gamvik,23.75,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5628,Deatnu - Tana,24.88,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5630,Berlev�g,27.31,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5632,B�tsfjord,19.72,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5634,Vard�,25.75,pct,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,age65,2026,municipality,5636,Unj�rga - Nesseby,30.09,pct,provenance/norway_first_harvest_manifest.json,family_mapped

@@ -1,0 +1,358 @@
+country_id,factor_id,year,public_geography_type,public_geography_id,municipality,value,unit,provenance_ref,comparability_status
+norway,income,2024,municipality,0301,Oslo - Oslove,408400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1101,Eigersund,369500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1103,Stavanger,400900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1106,Haugesund,373500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1108,Sandnes,387800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1111,Sokndal,361600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1112,Lund,347100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1114,Bjerkreim,369700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1119,H�,365400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1120,Klepp,384700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1121,Time,393200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1122,Gjesdal,377100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1124,Sola,423000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1127,Randaberg,390800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1130,Strand,363500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1133,Hjelmeland,385900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1134,Suldal,373100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1135,Sauda,371400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1144,Kvits�y,375700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1145,Bokn,381200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1146,Tysv�r,376700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1149,Karm�y,365100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1151,Utsira,379200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1160,Vindafjord,367000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1505,Kristiansund,345600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1506,Molde,375700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1508,�lesund,373800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1511,Vanylven,350400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1514,Sande,351400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1515,Her�y (M�re og Romsdal),349900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1516,Ulstein,360800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1517,Hareid,339100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1520,�rsta,353400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1525,Stranda,372700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1528,Sykkylven,354900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1531,Sula,357300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1532,Giske,365400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1535,Vestnes,342800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1539,Rauma,356500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1547,Aukra,355100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1554,Aver�y,348500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1557,Gjemnes,345100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1560,Tingvoll,341500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1563,Sunndal,374300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1566,Surnadal,337900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1573,Sm�la,350800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1576,Aure,350200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1577,Volda,333600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1578,Fjord,345000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1579,Hustadvika,356500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1580,Haram,354300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1804,Bod�,385000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1806,Narvik,368600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1811,Bindal,316900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1812,S�mna,333400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1813,Br�nn�y,352400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1815,Vega,319900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1816,Vevelstad,330600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1818,Her�y (Nordland),341200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1820,Alstahaug,360500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1822,Leirfjord,331800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1824,Vefsn,365700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1825,Grane,334800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1826,Aarborte - Hattfjelldal,316900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1827,D�nna,321600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1828,Nesna,324200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1832,Hemnes,335600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1833,Rana - Raane,360200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1834,Lur�y,368800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1835,Tr�na,351100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1836,R�d�y,333600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1837,Mel�y,367700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1838,Gildesk�l,335100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1839,Beiarn,291500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1840,Saltdal,332900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1841,Fauske - Fuosko,350300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1845,S�rfold - Fuolld�,346500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1848,Steigen,356700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1851,L�dingen,318400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1853,Evenes - Even�ssi,357100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1856,R�st,352100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1857,V�r�y,319000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1859,Flakstad,338800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1860,Vestv�g�y,345400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1865,V�gan,346400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1866,Hadsel,352100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1867,B�,311600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1868,�ksnes,330800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1870,Sortland - Suort�,351900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1871,And�y,358500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1874,Moskenes,328600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,1875,H�bmer - Hamar�y,347500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3101,Halden,323400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3103,Moss,341500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3105,Sarpsborg,321900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3107,Fredrikstad,329100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3110,Hvaler,356500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3112,R�de,351700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3114,V�ler (�stfold),357900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3116,Skiptvet,328800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3118,Indre �stfold,336500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3120,Rakkestad,331800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3122,Marker,327100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3124,Aremark,323600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3201,B�rum,451700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3203,Asker,413800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3205,Lillestr�m,385400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3207,Nordre Follo,412000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3209,Ullensaker,363500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3212,Nesodden,395500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3214,Frogn,388500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3216,Vestby,374600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3218,�s,370000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3220,Enebakk,360000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3222,L�renskog,385000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3224,R�lingen,382400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3226,Aurskog-H�land,332400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3228,Nes,357800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3230,Gjerdrum,397100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3232,Nittedal,412300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3234,Lunner,370000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3236,Jevnaker,343300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3238,Nannestad,358700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3240,Eidsvoll,348400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3242,Hurdal,313500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3301,Drammen,350100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3303,Kongsberg,389600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3305,Ringerike,345200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3310,Hole,391300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3312,Lier,387200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3314,�vre Eiker,360300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3316,Modum,333100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3318,Kr�dsherad,343000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3320,Fl�,361000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3322,Nesbyen,351500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3324,Gol,358600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3326,Hemsedal,368400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3328,�l,346100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3330,Hol,369000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3332,Sigdal,344700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3334,Flesberg,351800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3336,Rollag,338800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3338,Nore og Uvdal,352600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3401,Kongsvinger,327800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3403,Hamar,359800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3405,Lillehammer,368500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3407,Gj�vik,338900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3411,Ringsaker,348500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3412,L�ten,328400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3413,Stange,346400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3414,Nord-Odal,323700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3415,S�r-Odal,343700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3416,Eidskog,310000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3417,Grue,308400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3418,�snes,306500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3419,V�ler (Innlandet),315800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3420,Elverum,340300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3421,Trysil,322500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3422,�mot,322000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3423,Stor-Elvdal,311400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3424,Rendalen,302400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3425,Engerdal,301600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3426,Tolga,338100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3427,Tynset,345200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3428,Alvdal,358900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3429,Folldal,317800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3430,Os,347800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3431,Dovre,337700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3432,Lesja,341900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3433,Skj�k,343100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3434,Lom,356200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3435,V�g�,340200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3436,Nord-Fron,340400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3437,Sel,302100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3438,S�r-Fron,335500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3439,Ringebu,338600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3440,�yer,346100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3441,Gausdal,351900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3442,�stre Toten,345700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3443,Vestre Toten,349000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3446,Gran,348100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3447,S�ndre Land,319600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3448,Nordre Land,320200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3449,S�r-Aurdal,330300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3450,Etnedal,292000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3451,Nord-Aurdal,341100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3452,Vestre Slidre,354200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3453,�ystre Slidre,367500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3454,Vang,331400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3901,Horten,339200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3903,Holmestrand,353300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3905,T�nsberg,361300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3907,Sandefjord,332300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3909,Larvik,334600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,3911,F�rder,354800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4001,Porsgrunn,351200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4003,Skien,340700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4005,Notodden,336400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4010,Siljan,364900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4012,Bamble,345100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4014,Krager�,323800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4016,Drangedal,316600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4018,Nome,333500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4020,Midt-Telemark,323800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4022,Seljord,335400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4024,Hjartdal,344500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4026,Tinn,358700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4028,Kviteseid,353800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4030,Nissedal,342100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4032,Fyresdal,347100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4034,Tokke,365400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4036,Vinje,370500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4201,Ris�r,318800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4202,Grimstad,335100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4203,Arendal,341400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4204,Kristiansand,337500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4205,Lindesnes,338400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4206,Farsund,344400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4207,Flekkefjord,348600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4211,Gjerstad,315900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4212,Veg�rshei,310700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4213,Tvedestrand,319800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4214,Froland,338100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4215,Lillesand,355700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4216,Birkenes,337400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4217,�mli,317700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4218,Iveland,313400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4219,Evje og Hornnes,309000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4220,Bygland,341200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4221,Valle,388400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4222,Bykle,389500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4223,Vennesla,325500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4224,�seral,356000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4225,Lyngdal,322500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4226,H�gebostad,361400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4227,Kvinesdal,335600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4228,Sirdal,394300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4601,Bergen,380200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4602,Kinn,370000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4611,Etne,366100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4612,Sveio,366500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4613,B�mlo,357000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4614,Stord,387800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4615,Fitjar,370300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4616,Tysnes,340100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4617,Kvinnherad,373700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4618,Ullensvang,397900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4619,Eidfjord,403400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4620,Ulvik,355400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4621,Voss,366500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4622,Kvam,366500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4623,Samnanger,366000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4624,Bj�rnafjorden,370100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4625,Austevoll,391700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4626,�ygarden,363600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4627,Ask�y,372500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4628,Vaksdal,345600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4629,Modalen,360200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4630,Oster�y,366000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4631,Alver,364800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4632,Austrheim,393700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4633,Fedje,375400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4634,Masfjorden,392600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4635,Gulen,378100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4636,Solund,357400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4637,Hyllestad,344800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4638,H�yanger,379200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4639,Vik,387800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4640,Sogndal,376700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4641,Aurland,375300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4642,L�rdal,375000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4643,�rdal,407300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4644,Luster,360000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4645,Askvoll,350800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4646,Fjaler,343800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4647,Sunnfjord,388000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4648,Bremanger,356500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4649,Stad,362600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4650,Gloppen,368000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,4651,Stryn,352600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5001,Trondheim - Tr�ante,374900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5006,Steinkjer - St�entje,335800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5007,Namsos - N�avmesjenjaelmie,346700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5014,Fr�ya,364800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5020,Osen,327200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5021,Oppdal,341100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5022,Rennebu,325300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5025,R�ros - Rosse,351500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5026,Holt�len,336300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5027,Midtre Gauldal,343600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5028,Melhus,356900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5029,Skaun,372200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5031,Malvik,374900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5032,Selbu,354100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5033,Tydal,347300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5034,Mer�ker,301300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5035,Stj�rdal,348000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5036,Frosta,325700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5037,Levanger - Levangke,352400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5038,Verdal,336500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5041,Sn�ase - Sn�sa,311800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5042,Lierne,338600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5043,Raarvihke - R�yrvik,301000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5044,Namsskogan,323000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5045,Grong,344500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5046,H�ylandet,330200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5047,Overhalla,358400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5049,Flatanger,350000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5052,Leka,339200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5053,Inder�y,349000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5054,Indre Fosen,332400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5055,Heim,337600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5056,Hitra,354500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5057,�rland,355700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5058,�fjord,339800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5059,Orkland,350100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5060,N�r�ysund,351000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5061,Rindal,339700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5501,Troms�,390500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5503,Harstad - H�rstt�k,365000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5510,Kv�fjord,333400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5512,Dielddanuorri - Tjeldsund,349500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5514,Ibestad,323900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5516,Gratangen - Rivtt�k,328400,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5518,Loab�k - Lavangen,315700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5520,Bardu,403300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5522,Salangen,346600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5524,M�lselv,383800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5526,S�rreisa,362800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5528,Dyr�y,346900,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5530,Senja,353100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5532,Balsfjord,334500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5534,Karls�y,321100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5536,Lyngen - Ivgu - Yyke�,336500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5538,Storfjord - Omasvuotna - Omasvuono,331800,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5540,G�ivuotna - K�fjord - Kaivuono,319700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5542,Skjerv�y,339300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5544,Nordreisa - R�isa - Raisi,338600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5546,Kv�nangen,324300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5601,Alta,369500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5603,Hammerfest - H�mmerfeasta,387600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5605,S�r-Varanger,368100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5607,Vads�,378200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5610,K�r�sjohka - Karasjok,336300,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5612,Guovdageaidnu - Kautokeino,301000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5614,Loppa,324100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5616,Hasvik,325000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5618,M�s�y,318100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5620,Nordkapp,344000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5622,Porsanger - Pors�ngu - Porsanki,372200,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5624,Lebesby,328000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5626,Gamvik,306100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5628,Deatnu - Tana,356500,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5630,Berlev�g,335600,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5632,B�tsfjord,327700,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5634,Vard�,320000,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
+norway,income,2024,municipality,5636,Unj�rga - Nesseby,352100,NOK,provenance/norway_first_harvest_manifest.json,family_mapped
