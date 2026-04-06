@@ -28,7 +28,7 @@ class PublicSurfaceContractTests(unittest.TestCase):
         wrapper = (Path(__file__).resolve().parents[1] / "app.py").read_text(encoding="utf-8")
         self.assertIn('WPD_APP_TITLE", "Norwegian Politics Data"', wrapper)
         self.assertIn('WPD_EXPOSE_COUNTRIES", "norway"', wrapper)
-        self.assertIn('WPD_PROFILE", "world_internal"', wrapper)
+        self.assertIn('WPD_PROFILE", "norway_only"', wrapper)
 
     def test_runtime_helper_modules_exist(self):
         root = Path(__file__).resolve().parents[1]

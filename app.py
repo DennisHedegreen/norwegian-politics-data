@@ -1,6 +1,6 @@
 import os
 
-os.environ.setdefault("WPD_PROFILE", "world_internal")
+os.environ.setdefault("WPD_PROFILE", "norway_only")
 os.environ.setdefault("WPD_APP_TITLE", "Norwegian Politics Data")
 os.environ.setdefault("WPD_EXPOSE_COUNTRIES", "norway")
 
