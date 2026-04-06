@@ -84,6 +84,9 @@ Current disposition:
 - first harvest landed
 - current public-style window:
   - `2025`
+- current internal UI window:
+  - `2021` bridge-safe turnout mode for `355` current municipalities
+  - `2025` full current layer for `357` current municipalities
 - current internal election window:
   - `2021`
   - `2025`
@@ -178,6 +181,6 @@ Why:
 
 1. keep the explicit municipality bridge between `2020-2023` and `2024-` election geometries truthful
 2. decide whether the `Alesund/Haram` split can be resolved from a lower-resolution source or must stay as a named hole
-3. decide whether `turnout` can honestly expose `2021` beside `2025` through the bridge-safe current layer
+3. keep `turnout` exposed internally for `2021` only through the `355`-municipality bridge-safe current layer
 4. keep `cars` as a 2025-only private-shell factor until the leasing-method break is explicitly handled
 5. investigate `employment` / `unemployment` only after the bridge edge case is stable

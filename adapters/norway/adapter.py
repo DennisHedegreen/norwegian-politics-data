@@ -20,9 +20,10 @@ from core.presentation import (
 
 
 NORWAY_LIVE_FACTOR_KEYS = ("population", "density", "age65", "turnout", "cars")
-NORWAY_LIVE_YEARS = (2025,)
+NORWAY_LIVE_YEARS = (2021, 2025)
 NORWAY_DEFAULT_PARTY_MIN_MUNICIPALITIES = 25
 NORWAY_DEFAULT_PARTY_MIN_MEAN_SHARE = 0.5
+NORWAY_BRIDGE_SAFE_TURNOUT_FILE = "storting_turnout_by_current_municipality_bridge_safe.csv"
 NORWAY_METRIC_OPTIONS = [
     ("population", "Population", "Population (reference count)"),
     ("density", "Population density", "Residents per km²"),
@@ -34,6 +35,10 @@ NORWAY_METRIC_OPTIONS = [
 
 def _factor_file(country_config, filename: str) -> Path:
     return country_config.factor_dir / filename
+
+
+def _bridge_safe_turnout_file(country_config) -> Path:
+    return country_config.factor_dir.parent / "storting" / NORWAY_BRIDGE_SAFE_TURNOUT_FILE
 
 
 def is_available(country_config, runtime_context) -> bool:
@@ -60,7 +65,13 @@ def load_bundle(country_config):
         elif metric_key == "age65":
             filename = "age65_pct.csv"
         elif metric_key == "turnout":
-            filename = "turnout_pct.csv"
+            path = _bridge_safe_turnout_file(country_config)
+            frame = pd.read_csv(path) if path.exists() else pd.DataFrame(columns=["municipality", "year", "value"])
+            if not frame.empty:
+                frame = frame.rename(columns={"election_year": "year"})
+                frame["year"] = frame["year"].astype(int)
+            factor_frames[metric_key] = frame
+            continue
         elif metric_key == "income":
             filename = "income.csv"
         elif metric_key == "education":
@@ -131,14 +142,12 @@ def render(country_config, selected_country_label, runtime_context):
     municipal = bundle["municipal"]
     national = bundle["national"]
     factor_frames = bundle["factor_frames"]
-    municipalities = sorted(municipal.loc[municipal["election_year"] == 2025, "municipality"].dropna().unique().tolist())
-
     with st.sidebar:
         st.markdown('<div class="hr-wordmark">HEDEGREEN RESEARCH<span class="dot"> ●</span></div>', unsafe_allow_html=True)
         st.markdown("**Norwegian Politics Data**")
         st.markdown(
             "<p style='font-size:0.75rem;color:#6a6a7a;line-height:1.6;margin-top:0.3rem;'>"
-            "Internal Norway adapter. Normal municipality reading is currently locked to the clean 2025 current-municipality layer."
+            "Internal Norway adapter. Normal municipality reading now supports the clean 2025 layer plus a 2021 bridge-safe turnout-only mode."
             "</p>",
             unsafe_allow_html=True,
         )
@@ -155,8 +164,6 @@ def render(country_config, selected_country_label, runtime_context):
         render_country_sidebar_footer(country_config)
 
     if page == "Explore":
-        year = NORWAY_LIVE_YEARS[0]
-        municipal_2025 = municipal[municipal["election_year"] == year].copy()
         st.markdown(
             "<p style='font-size:0.65rem;font-weight:500;letter-spacing:0.12em;text-transform:uppercase;color:#aaaabc;margin-bottom:0.2rem;'>"
             "Norwegian Politics Data</p>",
@@ -165,19 +172,19 @@ def render(country_config, selected_country_label, runtime_context):
         st.title("Is there a pattern?")
         st.markdown(
             "<p style='font-size:0.95rem;color:#5a5a6a;margin-bottom:2rem;'>"
-            "First internal Norway reading. Municipality correlations currently use only the honest 2025 current-municipality layer."
+            "First internal Norway reading. Municipality correlations use the 2025 current-municipality layer and a constrained 2021 bridge-safe turnout mode."
             "</p>",
             unsafe_allow_html=True,
         )
         st.markdown('<div class="step-label">Step 1 — Election year</div>', unsafe_allow_html=True)
-        st.selectbox(
+        year = st.selectbox(
             "year",
-            options=[year],
+            options=sorted(NORWAY_LIVE_YEARS, reverse=True),
             index=0,
             key="norway_year",
             label_visibility="collapsed",
-            disabled=True,
         )
+        municipal_year = municipal[municipal["election_year"] == year].copy()
 
         metric_items = [(key, label, metric_label) for key, label, metric_label in NORWAY_METRIC_OPTIONS if not _get_metric_series(key, year, factor_frames).empty]
         metric_labels = [label for _, label, _ in metric_items]
@@ -185,12 +192,12 @@ def render(country_config, selected_country_label, runtime_context):
         selected_metric_labels = st.pills(
             "norway-factors",
             metric_labels,
-            key="norway_cx_factors",
+            key=f"norway_cx_factors_{year}",
             selection_mode="multi",
             label_visibility="collapsed",
         )
 
-        party_profiles = get_norway_party_profiles(municipal_2025)
+        party_profiles = get_norway_party_profiles(municipal_year)
         all_party_options = party_profiles["party"].tolist()
         default_public_parties = party_profiles.loc[party_profiles["default_public"], "party"].tolist()
         party_options = default_public_parties
@@ -241,7 +248,7 @@ def render(country_config, selected_country_label, runtime_context):
         factor_label_to_key = {label: key for key, label, _ in metric_items}
         results = []
         for party in selected_parties:
-            votes = municipal_2025[municipal_2025["party"] == party][["municipality", "share"]]
+            votes = municipal_year[municipal_year["party"] == party][["municipality", "share"]]
             for metric_label in selected_metric_labels:
                 metric_key = factor_label_to_key[metric_label]
                 metric_series = _get_metric_series(metric_key, year, factor_frames)
@@ -306,7 +313,7 @@ def render(country_config, selected_country_label, runtime_context):
         else:
             top = max(valid_results, key=lambda item: abs(float(item["r"])))
             st.markdown(
-                "<p style='font-size:0.75rem;color:#aaaabc;margin-bottom:0.5rem;'>Showing the strongest live 2025 Norway signal first. See the full table below for the rest.</p>",
+                f"<p style='font-size:0.75rem;color:#aaaabc;margin-bottom:0.5rem;'>Showing the strongest live {year} Norway signal first. See the full table below for the rest.</p>",
                 unsafe_allow_html=True,
             )
             strength_cls, strength_tag, headline, concrete, _, note = build_country_finding(
@@ -408,7 +415,7 @@ def render(country_config, selected_country_label, runtime_context):
 This is the first internal Norway adapter inside `World-politics-data`.
 
 - Country: `{country_config.display_name}`
-- Election scope in normal UI: `2025 Storting municipality-safe current layer`
+- Election scope in normal UI: `2025 Storting municipality-safe current layer`; `2021` bridge-safe turnout-only mode
 - Internal national trend scope: `2021`, `2025`
 - Public geography: `{country_config.public_geography_label}`
 - Public geography count: `{country_config.public_geography_count}`
@@ -421,9 +428,11 @@ The Norway data pack already contains `income` and `education`, but the live Nor
             """
 **Method note**
 - Correlation is not causation.
-- `2021` exists in the harvest, but it stays outside the normal municipality correlation UI in this first adapter pass.
+- `2021` exists in the normal municipality correlation UI only as a bridge-safe turnout mode in this first adapter pass.
+- `2021` bridge-safe municipality readings cover `355` current municipalities and exclude current `Ålesund` and `Haram`, because old `Ålesund` cannot be split honestly across the 2024 municipal reform from the available official municipality-level result.
+- A sensitivity check against the old `356`-municipality 2021 layer shows that excluding this unresolved split does not materially change the turnout-correlation ranking in the current internal tests.
 - `Haram 2021 partial` remains internal-only and never appears as a normal municipality row.
-- The first normal Norway factor picker is intentionally restricted to `population`, `population density`, `age65`, `turnout`, and `cars`.
+- The first normal Norway factor picker is intentionally restricted to `population`, `population density`, `age65`, `turnout`, and `cars`; for `2021`, only `turnout` is available.
 - `Cars` uses the 2025 SSB private-car layer only; earlier vehicle years stay out because SSB changed the municipality placement rule for leased vehicles in 2025.
 - Default party view filters out micro-parties and thin-coverage regional lists before `All parties` runs.
 """
