@@ -16,7 +16,7 @@ This repo is the Norway-only private mirror extracted from the internal World-po
 - Bridge-safe municipality election years: `2021`, `2025`
 - National trend years: `2021`, `2025`
 - Mirror geography: `current municipality`
-- Current live factors in the private shell: `population`, `population density`, `age65`, `turnout`
+- Current live factors in the private shell: `population`, `population density`, `age65`, `turnout`, `cars`
 
 ## Run locally
 

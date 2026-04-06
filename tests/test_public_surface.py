@@ -21,7 +21,7 @@ class PublicSurfaceContractTests(unittest.TestCase):
         config = get_country_config("norway")
         self.assertEqual(config.display_name, "Norway")
         self.assertEqual(config.adjective, "Norwegian")
-        self.assertEqual(len(config.supported_factors), 6)
+        self.assertEqual(len(config.supported_factors), 7)
         self.assertEqual(bool(config.national_vote_path), True)
 
     def test_public_wrapper_defaults(self):

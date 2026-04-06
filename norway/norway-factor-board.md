@@ -119,8 +119,15 @@ Why:
 
 Current disposition:
 
-- no source path locked yet
-- next candidate after the first Norway pack is stable
+- source path audited and ready for a first private-shell pass
+- current source:
+  - `SSB table 07849` registered vehicles by municipality
+- current first rule:
+  - use `Private cars` only
+  - expose `2025` only
+  - normalize as private cars per 1,000 residents against the current population layer
+  - keep as `country_local`
+  - do not treat `2024 -> 2025` as a clean trend because SSB notes a 2025 placement change for leased vehicles
 
 ### `employment` / `unemployment`
 
@@ -172,5 +179,5 @@ Why:
 1. keep the explicit municipality bridge between `2020-2023` and `2024-` election geometries truthful
 2. decide whether the `Alesund/Haram` split can be resolved from a lower-resolution source or must stay as a named hole
 3. decide whether `turnout` can honestly expose `2021` beside `2025` through the bridge-safe current layer
-4. investigate `cars`
+4. keep `cars` as a 2025-only private-shell factor until the leasing-method break is explicitly handled
 5. investigate `employment` / `unemployment` only after the bridge edge case is stable

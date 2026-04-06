@@ -19,13 +19,16 @@ from core.presentation import (
 )
 
 
-NORWAY_LIVE_FACTOR_KEYS = ("population", "density", "age65", "turnout")
+NORWAY_LIVE_FACTOR_KEYS = ("population", "density", "age65", "turnout", "cars")
 NORWAY_LIVE_YEARS = (2025,)
+NORWAY_DEFAULT_PARTY_MIN_MUNICIPALITIES = 25
+NORWAY_DEFAULT_PARTY_MIN_MEAN_SHARE = 0.5
 NORWAY_METRIC_OPTIONS = [
     ("population", "Population", "Population (reference count)"),
     ("density", "Population density", "Residents per km²"),
     ("age65", "Age 65+", "Share aged 65+ (%)"),
     ("turnout", "Turnout", "Votes cast as share of voters (%)"),
+    ("cars", "Cars", "Passenger cars per 1,000 residents"),
 ]
 
 
@@ -62,6 +65,8 @@ def load_bundle(country_config):
             filename = "income.csv"
         elif metric_key == "education":
             filename = "education.csv"
+        elif metric_key == "cars":
+            filename = "cars_per_1000.csv"
         if filename is None:
             continue
         path = _factor_file(country_config, filename)
@@ -99,12 +104,26 @@ def _party_options(municipal_df, year):
     year_frame = municipal_df[municipal_df["election_year"] == year].copy()
     if year_frame.empty:
         return []
-    ranking = (
-        year_frame.groupby("party", as_index=False)
-        .agg(mean_share=("share", "mean"))
-        .sort_values("mean_share", ascending=False)
+    profiles = get_norway_party_profiles(year_frame)
+    return profiles["party"].tolist()
+
+
+def get_norway_party_profiles(municipal_df):
+    if municipal_df.empty:
+        return pd.DataFrame(columns=["party", "municipality_count", "mean_share", "default_public"])
+    stats = (
+        municipal_df[municipal_df["share"] > 0]
+        .groupby("party", as_index=False)
+        .agg(
+            municipality_count=("municipality", "nunique"),
+            mean_share=("share", "mean"),
+        )
     )
-    return ranking["party"].tolist()
+    stats["default_public"] = (
+        (stats["municipality_count"] >= NORWAY_DEFAULT_PARTY_MIN_MUNICIPALITIES)
+        & (stats["mean_share"] >= NORWAY_DEFAULT_PARTY_MIN_MEAN_SHARE)
+    )
+    return stats.sort_values(["default_public", "mean_share", "municipality_count"], ascending=[False, False, False]).reset_index(drop=True)
 
 
 def render(country_config, selected_country_label, runtime_context):
@@ -171,14 +190,28 @@ def render(country_config, selected_country_label, runtime_context):
             label_visibility="collapsed",
         )
 
-        party_options = _party_options(municipal_2025, year)
-        default_parties = party_options[:5]
+        party_profiles = get_norway_party_profiles(municipal_2025)
+        all_party_options = party_profiles["party"].tolist()
+        default_public_parties = party_profiles.loc[party_profiles["default_public"], "party"].tolist()
+        party_options = default_public_parties
+        default_parties = default_public_parties[:5]
         if "norway_parties" not in st.session_state:
             st.session_state["norway_parties"] = default_parties
         st.markdown('<div class="step-label" style="margin-top:1rem;">Step 3 — Pick parties</div>', unsafe_allow_html=True)
+        include_low_coverage = st.checkbox(
+            "Show smaller parties too",
+            key="norway_include_low_coverage",
+            help="Default Norway view keeps only parties with at least 25 municipalities and at least 0.5% mean municipality vote share. This avoids thin-coverage micro-party correlations dominating the results.",
+        )
+        party_options = all_party_options if include_low_coverage else default_public_parties
+        current_selected = [party for party in st.session_state.get("norway_parties", []) if party in party_options]
+        if not current_selected:
+            current_selected = party_options[:] if st.session_state.get("norway_all_parties") else party_options[:1]
+        st.session_state["norway_parties"] = current_selected
         select_all = st.checkbox("All parties", key="norway_all_parties")
         if select_all:
             selected_parties = party_options
+            st.session_state["norway_parties"] = party_options
         else:
             selected_parties = st.pills(
                 "norway-parties",
@@ -188,6 +221,11 @@ def render(country_config, selected_country_label, runtime_context):
                 format_func=lambda party: format_party_name(party, metadata=country_config.party_metadata, mode=party_name_mode, compact=True),
                 label_visibility="collapsed",
             )
+        st.markdown(
+            "<p style='font-size:0.72rem;color:#8888a0;margin-top:0.35rem;margin-bottom:0;'>"
+            "Default party view filters out micro-parties and thin-coverage regional lists.</p>",
+            unsafe_allow_html=True,
+        )
 
         if not selected_metric_labels or not selected_parties:
             st.markdown(
@@ -385,7 +423,9 @@ The Norway data pack already contains `income` and `education`, but the live Nor
 - Correlation is not causation.
 - `2021` exists in the harvest, but it stays outside the normal municipality correlation UI in this first adapter pass.
 - `Haram 2021 partial` remains internal-only and never appears as a normal municipality row.
-- The first normal Norway factor picker is intentionally restricted to `population`, `population density`, `age65`, and `turnout`.
+- The first normal Norway factor picker is intentionally restricted to `population`, `population density`, `age65`, `turnout`, and `cars`.
+- `Cars` uses the 2025 SSB private-car layer only; earlier vehicle years stay out because SSB changed the municipality placement rule for leased vehicles in 2025.
+- Default party view filters out micro-parties and thin-coverage regional lists before `All parties` runs.
 """
         )
         factor_rows = []
@@ -407,6 +447,7 @@ The Norway data pack already contains `income` and `education`, but the live Nor
 <div class="source-item"><strong>Statistics Norway table 08243</strong> — Storting turnout by municipality.</div>
 <div class="source-item"><strong>Statistics Norway table 11342</strong> — Population and population density.</div>
 <div class="source-item"><strong>Statistics Norway table 07459</strong> — Age 65+ share.</div>
+<div class="source-item"><strong>Statistics Norway table 07849</strong> — Private cars per 1,000 residents, 2025 only.</div>
 <div class="source-item"><strong>Statistics Norway table 05671</strong> — Income, held back from live picker for now.</div>
 <div class="source-item"><strong>Statistics Norway table 09429</strong> — Education, held back from live picker for now.</div>
 <div class="source-item"><strong>Valgdirektoratet API</strong> — Internal-only Haram 2021 partial rule notes.</div>

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T14:03:25Z",
+  "generated_at": "2026-04-06T21:53:09Z",
   "country_id": "norway",
   "status": "internal_first_harvest",
   "scope": {
@@ -35,6 +35,9 @@
         2024
       ],
       "turnout": [
+        2025
+      ],
+      "cars": [
         2025
       ]
     },
@@ -159,6 +162,14 @@
       ]
     },
     {
+      "table_id": "07849",
+      "label": "Registered vehicles, by type of transport and type of fuel (M) 2008-2025",
+      "url": "https://data.ssb.no/api/pxwebapi/v2/tables/07849/data?lang=en",
+      "outputs": [
+        "norway/factors/cars_per_1000.csv"
+      ]
+    },
+    {
       "table_id": "08092",
       "label": "Storting election. Valid votes, by party/electoral list (M) 1945-2025",
       "url": "https://data.ssb.no/api/pxwebapi/v2/tables/08092/data?lang=en",
@@ -191,7 +202,8 @@
     "age65": 1071,
     "income": 357,
     "education": 357,
-    "turnout": 357
+    "turnout": 357,
+    "cars": 357
   },
   "notes": [
     "This remains an internal first harvest, not a public-ready Norway adapter.",
@@ -202,6 +214,7 @@
     "A separate internal-only Haram 2021 territorial candidate layer is now written from official Valgdirektoratet krets/tellekrets units. It is useful for internal territorial reading but remains explicitly non-bridge-safe for current municipalities.",
     "Education uses SSB table 09429 short + long higher education only. Tertiary vocational education is excluded for now because the family mapping is still not fully locked.",
     "Income currently uses median ordinary income after special deduction (AllmInnt) from table 05671 as the closest honest first-pass social-income layer.",
+    "Cars uses SSB table 07849 private cars per 1,000 residents for 2025 only. Earlier years stay out of the live factor for now because SSB notes a 2025 placement change for leased vehicles: from 2025 registered lessees are placed in lessees' municipalities/counties, while up to and including 2024 they were placed in owners' municipalities/counties.",
     "Alesund/Haram remains outside the bridge-safe 2021 current layer. Official 2021 krets and tellekrets sources identify the future Haram territory, but the pooled 0000 Uoppgitt krets bucket keeps the full municipality split from becoming honest yet."
   ]
 }

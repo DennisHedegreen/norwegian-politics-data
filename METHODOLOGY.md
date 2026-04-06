@@ -17,7 +17,7 @@ A private Norway-only deploy mirror for internal reading and staging. It pairs t
 - Election type: `Storting`
 - Public geography: `municipality`
 - Public geography count: `357`
-- Current public factors: `Population, Population density, Age 65+, Turnout, Income, Education`
+- Current public factors: `Population, Population density, Age 65+, Turnout, Cars, Income, Education`
 
 ## Data handling rules
 
