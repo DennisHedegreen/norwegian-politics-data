@@ -1,0 +1,303 @@
+{
+  "country_id": "norway",
+  "status": "approved_public_preview",
+  "published": false,
+  "target_configuration": "Public Streamlit preview from the existing private GitHub mirror",
+  "prepared_at": "2026-10-15T20:47:48.153221+00:00",
+  "files": {
+    "norway/factors/population.csv": {
+      "sha256": "6cec187554430383b87ae28db3b1caece6062890c620e252d2fccc3e88e8870b",
+      "rows": 1071,
+      "canonical_input_sha256": "cd4f65b824eeb052504451dab45dcaf749d2c8bba85806a70899616a2d8a296f",
+      "municipality_label_alignments": []
+    },
+    "norway/factors/population_density.csv": {
+      "sha256": "21e050629c46d151a91d3091b1e5ec1ed9aa10160c6b8ff17e293bdb6245c192",
+      "rows": 1071,
+      "canonical_input_sha256": "3fcfaffde429779203a46c2edb60cc876a5555116752d0fb794714cfb2050f40",
+      "municipality_label_alignments": []
+    },
+    "norway/factors/age65_pct.csv": {
+      "sha256": "152594d5a5d26e41dff0d68de60703ae31042424a8ff8f79d25921db268425b5",
+      "rows": 1071,
+      "canonical_input_sha256": "34ecb056a66b3b92e92ed33a7ca06e02e336db7ae6ba85b9d8dba17854f050a9",
+      "municipality_label_alignments": [
+        {
+          "id": "1841",
+          "year": "2024",
+          "source": "Fauske - Fuossko",
+          "display": "Fauske - Fuosko"
+        },
+        {
+          "id": "1841",
+          "year": "2025",
+          "source": "Fauske - Fuossko",
+          "display": "Fauske - Fuosko"
+        },
+        {
+          "id": "1841",
+          "year": "2026",
+          "source": "Fauske - Fuossko",
+          "display": "Fauske - Fuosko"
+        }
+      ]
+    },
+    "norway/factors/turnout_pct.csv": {
+      "sha256": "093f173e8e502aac6f5c4b8c1b3916c8f77f3621ec7052699580589d46b1c3d0",
+      "rows": 357,
+      "canonical_input_sha256": "78f91af0bea9222a7438bee09aa5aafc082517f9c6333d5c96a76ec9c765d499",
+      "municipality_label_alignments": []
+    },
+    "norway/factors/cars_per_1000.csv": {
+      "sha256": "8b9c9d5003869ff383942ad1feaa72219b475bfd3318e343c02af4fedb31af41",
+      "rows": 357,
+      "canonical_input_sha256": "d7b4329eb5eca387c8aff1b9b7b5048f6c453dd72a1c32111bb33485d1a8014b",
+      "municipality_label_alignments": [
+        {
+          "id": "1841",
+          "year": "2025",
+          "source": "Fauske - Fuossko",
+          "display": "Fauske - Fuosko"
+        }
+      ]
+    },
+    "norway/factors/education.csv": {
+      "sha256": "b27f044bfa474cd21356f319a20a238b8f13bba7d5c1ea20cc95bc1483780825",
+      "rows": 714,
+      "canonical_input_sha256": "9a33c6ad9279e677c1f6ae94d48d96cbf5eec74e323a07025b0e5a48f5c9b7cd",
+      "municipality_label_alignments": []
+    },
+    "norway/factors/income.csv": {
+      "sha256": "9f40a7b6aaae22d86014c1a50cc88d0bd4bc4e63c04b7f00e9afcaa38bbbba93",
+      "rows": 357,
+      "canonical_input_sha256": "deb0d4fafc0a008f570348e02d3911022458bb32f098fb0e1080e7b8187a4e1f",
+      "municipality_label_alignments": []
+    },
+    "norway/storting/storting_party_share_by_current_municipality_bridge_safe.csv": {
+      "sha256": "d6c54ca5b78d13e857e0be0edc0b302a3d537b20ae12a4e7d1f99cbb20370b32",
+      "rows": 13148,
+      "canonical_input_sha256": "a9a4e7918d4ba0b6b953521515a6fcc1c34cfe8d24885609f87ade24a06c54e5",
+      "municipality_label_alignments": []
+    },
+    "norway/storting/storting_turnout_by_current_municipality_bridge_safe.csv": {
+      "sha256": "a076031936ce7c5decacde56ba138040bf4d7f8495e030caa65f5ba7747df577",
+      "rows": 712,
+      "canonical_input_sha256": "4c25bd20d65e8950b54353e45eff2075752929de07e330d8b0e3d8b4c54b2f59",
+      "municipality_label_alignments": []
+    },
+    "norway/storting/storting_national_vote_share.csv": {
+      "sha256": "b0acc7482e32b7eed820282c51d26318a5399bc6cb9356580440938d27aa8e4d",
+      "rows": 47,
+      "canonical_input_sha256": "04afeab3b71d7e117f1ed7b692a8e9094d23695b8ccdb3147726dd3c416d059f",
+      "municipality_label_alignments": []
+    },
+    "norway/geography/municipality_bridge_2021_to_current.csv": {
+      "sha256": "388a782a200220a21cb897fa3439516bcec841e9c00e051bd5d4cd6e41d805f5",
+      "rows": 357,
+      "canonical_input_sha256": "0eedb3ea0a6671891e83891c2a985c4f45b2f46f93769bf671c727a4099189cb",
+      "municipality_label_alignments": []
+    }
+  },
+  "scope": {
+    "2025": {
+      "municipalities": 357,
+      "factors": [
+        "population",
+        "density",
+        "age65",
+        "turnout",
+        "cars",
+        "education"
+      ]
+    },
+    "2021": {
+      "municipalities": 355,
+      "factors": [
+        "turnout"
+      ],
+      "excluded_current_ids": [
+        "1508",
+        "1580"
+      ]
+    },
+    "national": "Full-country SSB vote shares, 2021 and 2025",
+    "context_only": "Income 2024; factor years outside the selected 2025 election year"
+  },
+  "sources": [
+    {
+      "url": "https://data.ssb.no/api/pxwebapi/v2/tables/11342?lang=en",
+      "sha256": "b3eacf6bf3113c2278b1d3526c346acba9ac1de474fb621daccd5cf8c384337c",
+      "bytes": 1735,
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "captured_at": "2026-10-15T20:23:24.419906+00:00"
+    },
+    {
+      "url": "https://data.ssb.no/api/pxwebapi/v2/tables/07459?lang=en",
+      "sha256": "60f116673430b693d968238392881d71123431e907e2dfe8d151905a4c2987f5",
+      "bytes": 1771,
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "captured_at": "2026-10-15T20:23:24.584213+00:00"
+    },
+    {
+      "url": "https://data.ssb.no/api/pxwebapi/v2/tables/09429?lang=en",
+      "sha256": "a61a39d4371ccb0f2e0d6b992262abc76217542686ec6dfe495b50f7033bc0d5",
+      "bytes": 1484,
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "captured_at": "2026-10-15T20:23:24.840984+00:00"
+    },
+    {
+      "url": "https://data.ssb.no/api/pxwebapi/v2/tables/05671?lang=en",
+      "sha256": "c231a5c32fa21e512c31d58a67fca6bd5521b42c2dec33872ff04abbc54e7500",
+      "bytes": 1893,
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "captured_at": "2026-10-15T20:23:25.060995+00:00"
+    },
+    {
+      "url": "https://data.ssb.no/api/pxwebapi/v2/tables/07849?lang=en",
+      "sha256": "40fae6162a016c712694e1f6b884db6154aae1de959d83be23fec94226a83527",
+      "bytes": 1394,
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "captured_at": "2026-10-15T20:23:25.248502+00:00"
+    },
+    {
+      "url": "https://data.ssb.no/api/pxwebapi/v2/tables/08092?lang=en",
+      "sha256": "b46336e3c55cb915e26324afdd8233f54257abec7d6a22dff51c064c1903dd75",
+      "bytes": 1040,
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "captured_at": "2026-10-15T20:23:25.483255+00:00"
+    },
+    {
+      "url": "https://data.ssb.no/api/pxwebapi/v2/tables/08243?lang=en",
+      "sha256": "95b98a6ce10a0d061776a1f96a3ed63b540b7aa5e19b0ab83a45f021fe6c9bd7",
+      "bytes": 1896,
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "captured_at": "2026-10-15T20:23:25.681099+00:00"
+    },
+    {
+      "url": "https://data.ssb.no/api/pxwebapi/v2/tables/11342/data?lang=en&outputFormat=csv&outputFormatParams=SeparatorSemicolon,UseCodesAndTexts&valueCodes[Region]=*&valueCodes[ContentsCode]=Folkemengde,FolkeLandArealKm2&valueCodes[Tid]=2024,2025,2026&codeList[Region]=agg_KommGjeldende&outputValues[Region]=single",
+      "sha256": "3c35e2921f2d75c95ae5f589e0595347af4ada475dd4770c22a2a8de02483d75",
+      "bytes": 17452,
+      "status": 200,
+      "content_type": "text/csv; charset=iso-8859-1",
+      "captured_at": "2026-10-15T20:23:26.641790+00:00"
+    },
+    {
+      "url": "https://data.ssb.no/api/pxwebapi/v2/tables/07459/data?lang=en&outputFormat=csv&outputFormatParams=SeparatorSemicolon,UseCodesAndTexts&valueCodes[Region]=*&valueCodes[Alder]=065,066,067,068,069,070,071,072,073,074,075,076,077,078,079,080,081,082,083,084,085,086,087,088,089,090,091,092,093,094,095,096,097,098,099,100,101,102,103,104,105%2B&valueCodes[ContentsCode]=Personer1&valueCodes[Tid]=2024,2025,2026&codeList[Region]=agg_KommSummer&outputValues[Region]=aggregated",
+      "sha256": "e9d0233deabfc1bc9f937595df4cec4e871ff0511590cdca037ea1221d8cc074",
+      "bytes": 796070,
+      "status": 200,
+      "content_type": "text/csv; charset=iso-8859-1",
+      "captured_at": "2026-10-15T20:23:29.334712+00:00"
+    },
+    {
+      "url": "https://data.ssb.no/api/pxwebapi/v2/tables/09429/data?lang=en&outputFormat=csv&outputFormatParams=SeparatorSemicolon,UseCodesAndTexts&valueCodes[Region]=*&valueCodes[Nivaa]=03a,04a&valueCodes[Kjonn]=0&valueCodes[ContentsCode]=PersonerProsent&valueCodes[Tid]=2024,2025&codeList[Region]=agg_KommGjeldende&outputValues[Region]=single",
+      "sha256": "e835b83740266cc4ec15b32c996c1c3e8e37c5782300202f90f22dbe7f2c7622",
+      "bytes": 58713,
+      "status": 200,
+      "content_type": "text/csv; charset=iso-8859-1",
+      "captured_at": "2026-10-15T20:23:30.905806+00:00"
+    },
+    {
+      "url": "https://data.ssb.no/api/pxwebapi/v2/tables/05671/data?lang=en&outputFormat=csv&outputFormatParams=SeparatorSemicolon,UseCodesAndTexts&valueCodes[Region]=*&valueCodes[ContentsCode]=AllmInnt&valueCodes[Tid]=2024&codeList[Region]=agg_KommGjeldende&outputValues[Region]=single",
+      "sha256": "45411565df30d4dcfc8ba6c91898c6ac12a95949faffe273d21a083e74c3c2f0",
+      "bytes": 11234,
+      "status": 200,
+      "content_type": "text/csv; charset=iso-8859-1",
+      "captured_at": "2026-10-15T20:23:31.842801+00:00"
+    },
+    {
+      "url": "https://data.ssb.no/api/pxwebapi/v2/tables/07849/data?lang=en&outputFormat=csv&outputFormatParams=SeparatorSemicolon,UseCodesAndTexts&valueCodes[Region]=*&valueCodes[ContentsCode]=Personbil1&valueCodes[Tid]=2025&codeList[Region]=agg_KommSummer&outputValues[Region]=single",
+      "sha256": "e797a494da6349c4574c210ae18fb9e7b2e6d00a8ef125dab567dbe1eec337b3",
+      "bytes": 12024,
+      "status": 200,
+      "content_type": "text/csv; charset=iso-8859-1",
+      "captured_at": "2026-10-15T20:23:33.248870+00:00"
+    },
+    {
+      "url": "https://data.ssb.no/api/pxwebapi/v2/tables/08092/data?lang=en&outputFormat=csv&outputFormatParams=SeparatorSemicolon,UseCodesAndTexts&valueCodes[Region]=0&valueCodes[PolitParti]=*&valueCodes[ContentsCode]=GodkjenteProsent&valueCodes[Tid]=2021",
+      "sha256": "2afc07f9d264fc867d342adab3e977c4473b6f1f706713bc57f09799d1c55e1e",
+      "bytes": 5233,
+      "status": 200,
+      "content_type": "text/csv; charset=iso-8859-1",
+      "captured_at": "2026-10-15T20:23:34.642231+00:00"
+    },
+    {
+      "url": "https://data.ssb.no/api/pxwebapi/v2/tables/08092/data?lang=en&outputFormat=csv&outputFormatParams=SeparatorSemicolon,UseCodesAndTexts&valueCodes[Region]=0&valueCodes[PolitParti]=*&valueCodes[ContentsCode]=GodkjenteProsent&valueCodes[Tid]=2025",
+      "sha256": "16565d31119bb8450437f692edfa076b8a466a97759d8c4e7450a3d38d3952c1",
+      "bytes": 5226,
+      "status": 200,
+      "content_type": "text/csv; charset=iso-8859-1",
+      "captured_at": "2026-10-15T20:23:36.021889+00:00"
+    },
+    {
+      "url": "https://data.ssb.no/api/pxwebapi/v2/tables/08092/data?lang=en&outputFormat=csv&outputFormatParams=SeparatorSemicolon,UseCodesAndTexts&valueCodes[Region]=*&valueCodes[PolitParti]=*&valueCodes[ContentsCode]=GodkjenteProsent&valueCodes[Tid]=2021&codeList[Region]=agg_KommunValgNyeste&outputValues[Region]=single",
+      "sha256": "f7d9abb1006eb2bfb83bb63752a6d85ad99b82c3dfc330f7aee5071d071881aa",
+      "bytes": 1846762,
+      "status": 200,
+      "content_type": "text/csv; charset=iso-8859-1",
+      "captured_at": "2026-10-15T20:23:37.970354+00:00"
+    },
+    {
+      "url": "https://data.ssb.no/api/pxwebapi/v2/tables/08243/data?lang=en&outputFormat=csv&outputFormatParams=SeparatorSemicolon,UseCodesAndTexts&valueCodes[Region]=*&valueCodes[ContentsCode]=ValgSProsent&valueCodes[Tid]=2021&codeList[Region]=agg_KommunValgNyeste&outputValues[Region]=single",
+      "sha256": "70ddc82556946b0122bdd93e06f1457e18b8b5d7cdf705dbc938d803b7a3978f",
+      "bytes": 11761,
+      "status": 200,
+      "content_type": "text/csv; charset=iso-8859-1",
+      "captured_at": "2026-10-15T20:23:38.887437+00:00"
+    },
+    {
+      "url": "https://data.ssb.no/api/pxwebapi/v2/tables/08092/data?lang=en&outputFormat=csv&outputFormatParams=SeparatorSemicolon,UseCodesAndTexts&valueCodes[Region]=*&valueCodes[PolitParti]=*&valueCodes[ContentsCode]=GodkjenteProsent&valueCodes[Tid]=2025&codeList[Region]=agg_KommunValg2025&outputValues[Region]=single",
+      "sha256": "a1b0553602e79214e5126a686d717b222e1fd176721b5e41249880d6ed1e9d64",
+      "bytes": 1733991,
+      "status": 200,
+      "content_type": "text/csv; charset=iso-8859-1",
+      "captured_at": "2026-10-15T20:23:40.550497+00:00"
+    },
+    {
+      "url": "https://data.ssb.no/api/pxwebapi/v2/tables/08243/data?lang=en&outputFormat=csv&outputFormatParams=SeparatorSemicolon,UseCodesAndTexts&valueCodes[Region]=*&valueCodes[ContentsCode]=ValgSProsent&valueCodes[Tid]=2025&codeList[Region]=agg_KommunValg2025&outputValues[Region]=single",
+      "sha256": "b38ff79b6bea423d5f6a7188361e3232031bc3f4c0ca5ac7c577dfb9b394f796",
+      "bytes": 10446,
+      "status": 200,
+      "content_type": "text/csv; charset=iso-8859-1",
+      "captured_at": "2026-10-15T20:23:41.579111+00:00"
+    },
+    {
+      "url": "https://data.ssb.no/api/pxwebapi/v2/tables/07849/metadata?lang=en",
+      "sha256": "a473529cef866d594748560b7c4cee078364965d02c2f6ce1163618f23ce7d63",
+      "bytes": 52438,
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "captured_at": "2026-10-15T20:24:40.530527+00:00"
+    },
+    {
+      "url": "https://data.ssb.no/api/pxwebapi/v2/tables/09429/metadata?lang=en",
+      "sha256": "91426689a2a73e4cbf5d3955f8b453d55bd61fa5effddd53c4ea400473b772fb",
+      "bytes": 43965,
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "captured_at": "2026-10-15T20:24:41.428518+00:00"
+    }
+  ],
+  "verification": {
+    "all_numeric_values_match": true,
+    "checked_at": "2026-10-15T20:47:47.260123+00:00",
+    "source_count": 20
+  },
+  "projection_rules": [
+    "Numerical values, years, source party IDs and geography IDs are preserved.",
+    "Provenance references point to this included manifest.",
+    "Current municipality codes align factor display names; differing source spelling is retained.",
+    "Bridge-safe turnout remains country-local; internal-only partial territorial rows are excluded.",
+    "Raw source responses remain archived outside this package; their URLs and hashes are recorded here."
+  ],
+  "release_approved": true,
+  "approval_date": "2026-10-15",
+  "publication_status": "deployment_not_yet_verified"
+}

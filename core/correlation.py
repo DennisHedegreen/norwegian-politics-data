@@ -63,6 +63,14 @@ def corr_strength_label(r) -> str:
     return f"None ({r:.2f})"
 
 
+def rank_correlation_results(results):
+    return sorted(
+        results,
+        key=lambda item: abs(float(item.get("r", 0) or 0)),
+        reverse=True,
+    )
+
+
 def compute_correlation_result(merged, *, factor: str, party: str, year: int, mode: str) -> dict:
     cleaned = merged.dropna(subset=["share", "metric"]).copy()
     n = len(cleaned)

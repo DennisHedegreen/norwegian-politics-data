@@ -1,48 +1,48 @@
 country_id,election_type,election_year,party_id,party,share,source_name,provenance_ref
-norway,storting,2021,01,Labour Party,26.3,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,02,Progress Party,11.6,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,03,Conservative Party,20.4,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,04,Christian Democratic Party,3.8,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,05,Centre Party,13.5,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,06,Socialist Left Party,7.6,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,07,Liberal Party,4.6,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,08,Green Party,3.9,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,09,Communist Party of Norway,0.0,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,10,The Pensioners' Party,0.6,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,122,Democratic Party of Norway,1.1,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,123,Conservative,0.4,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,124,Piratpartiet,0.1,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,131,Feministisk Initiativ,0.0,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,132,The Welfare and Innovation Party,0.2,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,133,Capitalist Party of Norway,0.2,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,150,Alliansen - Alternative for Norway,0.1,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,151,Folkeaksjonen Nei til mer bompenger,0.1,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,152,"Industrial-, commerce & business Party",0.3,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,153,Partiet Sentrum,0.3,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,154,Generation Party,0.0,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,155,Pasientfokus,0.2,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,156,Redd Naturen,0.0,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,44,Coastal Party,0.0,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2021,55,Red Party,4.7,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2025,01,Labour Party,28.0,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2025,02,Progress Party,23.8,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2025,03,Conservative Party,14.6,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2025,04,Christian Democratic Party,4.2,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2025,05,Centre Party,5.6,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2025,06,Socialist Left Party,5.6,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2025,07,Liberal Party,3.7,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2025,08,Green Party,4.7,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2025,09,Communist Party of Norway,0.0,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2025,10,The Pensioners' Party,0.8,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2025,122,Democratic Party of Norway,0.7,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2025,123,Conservative,0.5,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2025,132,The Welfare and Innovation Party,0.2,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2025,152,"Industrial-, commerce & business Party",0.6,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2025,153,Partiet Sentrum,0.2,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2025,154,Generation Party,0.7,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2025,155,Pasientfokus,0.1,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2025,157,The Loneliness Party,0.0,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2025,158,Peace and Justice,0.3,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2025,159,The DNI Party,0.2,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2025,160,Save Ullev�l Hospital,0.1,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
-norway,storting,2025,55,Red Party,5.3,Statistics Norway table 08092,provenance/norway_first_harvest_manifest.json
+norway,storting,2021,01,Labour Party,26.3,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,02,Progress Party,11.6,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,03,Conservative Party,20.4,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,04,Christian Democratic Party,3.8,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,05,Centre Party,13.5,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,06,Socialist Left Party,7.6,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,07,Liberal Party,4.6,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,08,Green Party,3.9,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,09,Communist Party of Norway,0.0,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,10,The Pensioners' Party,0.6,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,122,Democratic Party of Norway,1.1,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,123,Conservative,0.4,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,124,Piratpartiet,0.1,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,131,Feministisk Initiativ,0.0,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,132,The Welfare and Innovation Party,0.2,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,133,Capitalist Party of Norway,0.2,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,150,Alliansen - Alternative for Norway,0.1,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,151,Folkeaksjonen Nei til mer bompenger,0.1,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,152,"Industrial-, commerce & business Party",0.3,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,153,Partiet Sentrum,0.3,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,154,Generation Party,0.0,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,155,Pasientfokus,0.2,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,156,Redd Naturen,0.0,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,44,Coastal Party,0.0,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2021,55,Red Party,4.7,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2025,01,Labour Party,28.0,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2025,02,Progress Party,23.8,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2025,03,Conservative Party,14.6,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2025,04,Christian Democratic Party,4.2,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2025,05,Centre Party,5.6,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2025,06,Socialist Left Party,5.6,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2025,07,Liberal Party,3.7,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2025,08,Green Party,4.7,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2025,09,Communist Party of Norway,0.0,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2025,10,The Pensioners' Party,0.8,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2025,122,Democratic Party of Norway,0.7,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2025,123,Conservative,0.5,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2025,132,The Welfare and Innovation Party,0.2,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2025,152,"Industrial-, commerce & business Party",0.6,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2025,153,Partiet Sentrum,0.2,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2025,154,Generation Party,0.7,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2025,155,Pasientfokus,0.1,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2025,157,The Loneliness Party,0.0,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2025,158,Peace and Justice,0.3,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2025,159,The DNI Party,0.2,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2025,160,Save Ullev�l Hospital,0.1,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
+norway,storting,2025,55,Red Party,5.3,Statistics Norway table 08092,provenance/norway_release_candidate_manifest.json
