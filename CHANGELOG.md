@@ -1,8 +1,5 @@
-# Changelog — Norwegian Politics Data
+# Norway public preview release
 
-## 2026-04-03
+## 2026-10-15
 
-- Opened this repo as a single-country private extraction from a shared internal source tree.
-- Kept the newer shared app shell while locking exposure to one country only.
-- Copied only the country pack, provenance notes, and scope docs that belong with this mirror.
-- Intentionally kept the broader shared planning outside this repo instead of pretending this mirror is the whole framework.
+User approved the reviewed 357/355-municipality preview. The release preserves all numerical data, repairs the Fauske name join and includes complete provenance. The source repo remains private. Deployment and functional live verification are pending.

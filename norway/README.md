@@ -1,14 +1,3 @@
-# Norway Private Data Pack
+# Norway candidate data
 
-Private data pack for `Norwegian Politics Data`.
-
-Included here:
-
-- factor files used by the app
-- election files used by the app
-- country scope notes that belong with this mirror
-
-Intentionally excluded:
-
-- raw staging inputs that do not belong in the public repo
-- other country packs from the internal engine
+This reviewed package contains seven labelled factor files (six selectable factors and income context), three election files used by the runtime, and the explicit municipality mapping. Only turnout is available for 2021; the other five selectable factors use 2025 measurements. Internal partial territorial candidates and unreconciled historical municipality layers are excluded. Every normalized data row points to the included release-candidate provenance manifest.

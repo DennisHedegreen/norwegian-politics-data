@@ -1,358 +1,358 @@
-country_id,factor_id,year,public_geography_type,public_geography_id,municipality,value,unit,provenance_ref,comparability_status
-norway,cars,2025,municipality,0301,Oslo - Oslove,340.76,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1101,Eigersund,545.24,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1103,Stavanger,463.72,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1106,Haugesund,517.47,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1108,Sandnes,524.89,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1111,Sokndal,562.74,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1112,Lund,559.37,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1114,Bjerkreim,616.18,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1119,H�,552.9,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1120,Klepp,597.09,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1121,Time,562.43,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1122,Gjesdal,553.61,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1124,Sola,589.65,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1127,Randaberg,528.36,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1130,Strand,515.24,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1133,Hjelmeland,532.64,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1134,Suldal,563.59,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1135,Sauda,513.7,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1144,Kvits�y,475.44,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1145,Bokn,614.78,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1146,Tysv�r,584.55,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1149,Karm�y,568.44,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1151,Utsira,391.71,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1160,Vindafjord,622.78,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1505,Kristiansund,542.44,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1506,Molde,594.4,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1508,�lesund,548.6,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1511,Vanylven,684.38,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1514,Sande,580.7,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1515,Her�y (M�re og Romsdal),614.77,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1516,Ulstein,584.63,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1517,Hareid,581.2,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1520,�rsta,645.32,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1525,Stranda,615.3,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1528,Sykkylven,600.31,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1531,Sula,564.5,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1532,Giske,737.72,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1535,Vestnes,637.12,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1539,Rauma,606.59,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1547,Aukra,605.48,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1554,Aver�y,634.35,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1557,Gjemnes,634.42,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1560,Tingvoll,621.38,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1563,Sunndal,614.9,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1566,Surnadal,661.85,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1573,Sm�la,552.12,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1576,Aure,626.69,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1577,Volda,563.83,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1578,Fjord,633.28,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1579,Hustadvika,694.73,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1580,Haram,605.7,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1804,Bod�,511.4,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1806,Narvik,571.95,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1811,Bindal,612.81,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1812,S�mna,663.47,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1813,Br�nn�y,579.87,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1815,Vega,569.18,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1816,Vevelstad,563.83,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1818,Her�y (Nordland),541.84,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1820,Alstahaug,546.68,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1822,Leirfjord,615.97,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1824,Vefsn,617.51,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1825,Grane,612.59,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1826,Aarborte - Hattfjelldal,609.89,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1827,D�nna,557.71,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1828,Nesna,510.73,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1832,Hemnes,618.28,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1833,Rana - Raane,591.66,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1834,Lur�y,453.8,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1835,Tr�na,295.9,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1836,R�d�y,554.31,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1837,Mel�y,594.36,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1838,Gildesk�l,590.11,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1839,Beiarn,610.01,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1840,Saltdal,608.25,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1841,Fauske - Fuossko,628.05,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1845,S�rfold - Fuolld�,643.98,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1848,Steigen,637.87,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1851,L�dingen,518.14,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1853,Evenes - Even�ssi,707.05,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1856,R�st,493.45,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1857,V�r�y,456.43,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1859,Flakstad,602.69,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1860,Vestv�g�y,618.11,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1865,V�gan,543.71,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1866,Hadsel,577.98,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1867,B�,627.82,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1868,�ksnes,570.66,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1870,Sortland - Suort�,613.21,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1871,And�y,624.39,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1874,Moskenes,508.77,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,1875,H�bmer - Hamar�y,575.74,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3101,Halden,579.97,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3103,Moss,544.88,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3105,Sarpsborg,562.63,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3107,Fredrikstad,533.04,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3110,Hvaler,583.0,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3112,R�de,614.65,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3114,V�ler (�stfold),607.76,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3116,Skiptvet,614.76,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3118,Indre �stfold,598.6,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3120,Rakkestad,629.3,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3122,Marker,666.48,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3124,Aremark,678.31,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3201,B�rum,591.42,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3203,Asker,548.32,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3205,Lillestr�m,486.58,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3207,Nordre Follo,487.64,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3209,Ullensaker,538.03,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3212,Nesodden,433.18,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3214,Frogn,550.41,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3216,Vestby,542.68,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3218,�s,473.64,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3220,Enebakk,557.02,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3222,L�renskog,443.38,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3224,R�lingen,467.65,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3226,Aurskog-H�land,614.67,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3228,Nes,612.52,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3230,Gjerdrum,580.71,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3232,Nittedal,511.74,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3234,Lunner,593.95,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3236,Jevnaker,609.12,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3238,Nannestad,569.95,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3240,Eidsvoll,558.44,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3242,Hurdal,614.82,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3301,Drammen,502.78,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3303,Kongsberg,579.78,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3305,Ringerike,604.06,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3310,Hole,640.62,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3312,Lier,567.7,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3314,�vre Eiker,604.91,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3316,Modum,630.39,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3318,Kr�dsherad,630.87,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3320,Fl�,561.32,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3322,Nesbyen,622.78,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3324,Gol,603.93,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3326,Hemsedal,583.99,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3328,�l,604.55,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3330,Hol,570.13,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3332,Sigdal,676.77,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3334,Flesberg,664.28,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3336,Rollag,664.07,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3338,Nore og Uvdal,705.6,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3401,Kongsvinger,601.69,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3403,Hamar,585.45,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3405,Lillehammer,540.35,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3407,Gj�vik,585.98,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3411,Ringsaker,645.32,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3412,L�ten,1332.62,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3413,Stange,625.05,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3414,Nord-Odal,697.36,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3415,S�r-Odal,679.39,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3416,Eidskog,703.75,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3417,Grue,749.39,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3418,�snes,738.79,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3419,V�ler (Hedmark),737.0,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3420,Elverum,592.86,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3421,Trysil,624.43,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3422,�mot,625.68,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3423,Stor-Elvdal,631.11,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3424,Rendalen,693.39,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3425,Engerdal,640.27,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3426,Tolga,603.99,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3427,Tynset,624.96,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3428,Alvdal,652.05,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3429,Folldal,674.03,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3430,Os,690.24,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3431,Dovre,628.38,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3432,Lesja,640.08,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3433,Skj�k,753.56,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3434,Lom,730.02,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3435,V�g�,657.41,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3436,Nord-Fron,664.51,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3437,Sel,648.41,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3438,S�r-Fron,693.73,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3439,Ringebu,652.13,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3440,�yer,626.8,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3441,Gausdal,686.91,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3442,�stre Toten,711.27,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3443,Vestre Toten,662.83,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3446,Gran,631.7,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3447,S�ndre Land,651.06,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3448,Nordre Land,667.33,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3449,S�r-Aurdal,692.77,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3450,Etnedal,700.16,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3451,Nord-Aurdal,676.22,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3452,Vestre Slidre,738.56,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3453,�ystre Slidre,693.45,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3454,Vang,662.01,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3901,Horten,528.34,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3903,Holmestrand,593.33,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3905,T�nsberg,574.16,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3907,Sandefjord,588.24,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3909,Larvik,590.22,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,3911,F�rder,554.83,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4001,Porsgrunn,560.03,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4003,Skien,560.6,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4005,Notodden,595.89,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4010,Siljan,635.41,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4012,Bamble,592.8,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4014,Krager�,539.25,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4016,Drangedal,618.15,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4018,Nome,643.79,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4020,Midt-Telemark,589.13,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4022,Seljord,608.52,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4024,Hjartdal,614.22,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4026,Tinn,562.31,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4028,Kviteseid,631.62,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4030,Nissedal,629.21,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4032,Fyresdal,678.34,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4034,Tokke,640.3,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4036,Vinje,603.21,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4201,Ris�r,549.42,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4202,Grimstad,572.21,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4203,Arendal,564.94,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4204,Kristiansand,510.08,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4205,Lindesnes,557.43,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4206,Farsund,614.17,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4207,Flekkefjord,560.62,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4211,Gjerstad,643.66,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4212,Veg�rshei,578.56,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4213,Tvedestrand,580.45,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4214,Froland,620.61,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4215,Lillesand,540.05,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4216,Birkenes,563.46,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4217,�mli,629.92,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4218,Iveland,589.71,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4219,Evje og Hornnes,576.28,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4220,Bygland,666.09,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4221,Valle,654.77,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4222,Bykle,543.79,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4223,Vennesla,542.18,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4224,�seral,594.54,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4225,Lyngdal,590.03,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4226,H�gebostad,645.58,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4227,Kvinesdal,609.93,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4228,Sirdal,661.41,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4601,Bergen,416.19,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4602,Kinn,542.57,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4611,Etne,601.03,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4612,Sveio,612.48,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4613,B�mlo,567.81,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4614,Stord,514.32,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4615,Fitjar,593.52,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4616,Tysnes,581.38,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4617,Kvinnherad,587.1,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4618,Ullensvang,564.25,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4619,Eidfjord,573.94,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4620,Ulvik,507.27,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4621,Voss,539.55,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4622,Kvam,568.04,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4623,Samnanger,594.94,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4624,Bj�rnafjorden,549.24,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4625,Austevoll,527.68,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4626,�ygarden,563.07,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4627,Ask�y,524.01,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4628,Vaksdal,534.97,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4629,Modalen,505.1,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4630,Oster�y,580.52,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4631,Alver,576.78,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4632,Austrheim,618.87,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4633,Fedje,441.46,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4634,Masfjorden,628.33,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4635,Gulen,615.93,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4636,Solund,520.27,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4637,Hyllestad,602.65,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4638,H�yanger,602.98,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4639,Vik,592.16,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4640,Sogndal,547.62,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4641,Aurland,593.14,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4642,L�rdal,622.03,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4643,�rdal,594.86,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4644,Luster,613.4,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4645,Askvoll,550.51,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4646,Fjaler,534.54,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4647,Sunnfjord,582.47,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4648,Bremanger,564.71,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4649,Stad,594.72,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4650,Gloppen,589.79,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,4651,Stryn,632.06,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5001,Trondheim - Tr�ante,427.35,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5006,Steinkjer - St�entje,592.5,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5007,Namsos - N�avmesjenjaelmie,583.28,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5014,Fr�ya,572.06,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5020,Osen,661.05,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5021,Oppdal,579.64,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5022,Rennebu,632.71,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5025,R�ros - Rosse,590.39,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5026,Holt�len,621.58,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5027,Midtre Gauldal,595.99,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5028,Melhus,587.36,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5029,Skaun,592.42,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5031,Malvik,552.69,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5032,Selbu,669.97,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5033,Tydal,613.23,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5034,Mer�ker,610.03,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5035,Stj�rdal,588.48,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5036,Frosta,638.11,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5037,Levanger - Levangke,586.29,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5038,Verdal,624.19,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5041,Sn�ase - Sn�sa,571.09,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5042,Lierne,617.02,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5043,Raarvihke - R�yrvik,550.79,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5044,Namsskogan,636.25,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5045,Grong,586.86,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5046,H�ylandet,646.96,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5047,Overhalla,581.35,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5049,Flatanger,663.69,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5052,Leka,600.34,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5053,Inder�y,640.88,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5054,Indre Fosen,641.11,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5055,Heim,617.87,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5056,Hitra,599.0,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5057,�rland,644.87,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5058,�fjord,660.76,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5059,Orkland,617.03,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5060,N�r�ysund,606.29,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5061,Rindal,656.17,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5501,Troms�,462.98,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5503,Harstad - H�rstt�k,557.71,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5510,Kv�fjord,619.21,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5512,Dielddanuorri - Tjeldsund,666.67,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5514,Ibestad,595.7,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5516,Gratangen - Rivtt�k,601.69,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5518,Loab�k - Lavangen,621.32,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5520,Bardu,609.44,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5522,Salangen,615.78,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5524,M�lselv,678.25,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5526,S�rreisa,662.33,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5528,Dyr�y,680.07,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5530,Senja,618.14,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5532,Balsfjord,664.7,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5534,Karls�y,581.65,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5536,Lyngen - Ivgu - Yyke�,636.06,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5538,Storfjord - Omasvuotna - Omasvuono,688.35,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5540,G�ivuotna - K�fjord - Kaivuono,639.9,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5542,Skjerv�y,493.18,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5544,Nordreisa - R�isa - Raisi,605.61,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5546,Kv�nangen,656.94,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5601,Alta,580.61,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5603,Hammerfest - H�mmerfeasta,501.32,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5605,S�r-Varanger,608.25,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5607,Vads�,603.25,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5610,K�r�sjohka - Karasjok,570.92,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5612,Guovdageaidnu - Kautokeino,562.76,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5614,Loppa,502.31,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5616,Hasvik,482.09,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5618,M�s�y,418.94,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5620,Nordkapp,481.06,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5622,Porsanger - Pors�ngu - Porsanki,641.68,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5624,Lebesby,458.0,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5626,Gamvik,417.7,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5628,Deatnu - Tana,640.46,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5630,Berlev�g,448.31,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5632,B�tsfjord,470.34,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5634,Vard�,483.85,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
-norway,cars,2025,municipality,5636,Unj�rga - Nesseby,665.9,cars-per-1000-residents,provenance/norway_first_harvest_manifest.json,country_local
+country_id,factor_id,year,public_geography_type,public_geography_id,municipality,value,unit,provenance_ref,comparability_status,source_municipality
+norway,cars,2025,municipality,0301,Oslo - Oslove,340.76,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Oslo - Oslove
+norway,cars,2025,municipality,1101,Eigersund,545.24,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Eigersund
+norway,cars,2025,municipality,1103,Stavanger,463.72,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Stavanger
+norway,cars,2025,municipality,1106,Haugesund,517.47,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Haugesund
+norway,cars,2025,municipality,1108,Sandnes,524.89,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sandnes
+norway,cars,2025,municipality,1111,Sokndal,562.74,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sokndal
+norway,cars,2025,municipality,1112,Lund,559.37,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Lund
+norway,cars,2025,municipality,1114,Bjerkreim,616.18,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Bjerkreim
+norway,cars,2025,municipality,1119,Hå,552.9,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Hå
+norway,cars,2025,municipality,1120,Klepp,597.09,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Klepp
+norway,cars,2025,municipality,1121,Time,562.43,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Time
+norway,cars,2025,municipality,1122,Gjesdal,553.61,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Gjesdal
+norway,cars,2025,municipality,1124,Sola,589.65,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sola
+norway,cars,2025,municipality,1127,Randaberg,528.36,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Randaberg
+norway,cars,2025,municipality,1130,Strand,515.24,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Strand
+norway,cars,2025,municipality,1133,Hjelmeland,532.64,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Hjelmeland
+norway,cars,2025,municipality,1134,Suldal,563.59,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Suldal
+norway,cars,2025,municipality,1135,Sauda,513.7,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sauda
+norway,cars,2025,municipality,1144,Kvitsøy,475.44,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Kvitsøy
+norway,cars,2025,municipality,1145,Bokn,614.78,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Bokn
+norway,cars,2025,municipality,1146,Tysvær,584.55,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Tysvær
+norway,cars,2025,municipality,1149,Karmøy,568.44,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Karmøy
+norway,cars,2025,municipality,1151,Utsira,391.71,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Utsira
+norway,cars,2025,municipality,1160,Vindafjord,622.78,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Vindafjord
+norway,cars,2025,municipality,1505,Kristiansund,542.44,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Kristiansund
+norway,cars,2025,municipality,1506,Molde,594.4,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Molde
+norway,cars,2025,municipality,1508,Ålesund,548.6,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Ålesund
+norway,cars,2025,municipality,1511,Vanylven,684.38,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Vanylven
+norway,cars,2025,municipality,1514,Sande,580.7,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sande
+norway,cars,2025,municipality,1515,Herøy (Møre og Romsdal),614.77,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Herøy (Møre og Romsdal)
+norway,cars,2025,municipality,1516,Ulstein,584.63,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Ulstein
+norway,cars,2025,municipality,1517,Hareid,581.2,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Hareid
+norway,cars,2025,municipality,1520,Ørsta,645.32,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Ørsta
+norway,cars,2025,municipality,1525,Stranda,615.3,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Stranda
+norway,cars,2025,municipality,1528,Sykkylven,600.31,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sykkylven
+norway,cars,2025,municipality,1531,Sula,564.5,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sula
+norway,cars,2025,municipality,1532,Giske,737.72,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Giske
+norway,cars,2025,municipality,1535,Vestnes,637.12,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Vestnes
+norway,cars,2025,municipality,1539,Rauma,606.59,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Rauma
+norway,cars,2025,municipality,1547,Aukra,605.48,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Aukra
+norway,cars,2025,municipality,1554,Averøy,634.35,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Averøy
+norway,cars,2025,municipality,1557,Gjemnes,634.42,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Gjemnes
+norway,cars,2025,municipality,1560,Tingvoll,621.38,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Tingvoll
+norway,cars,2025,municipality,1563,Sunndal,614.9,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sunndal
+norway,cars,2025,municipality,1566,Surnadal,661.85,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Surnadal
+norway,cars,2025,municipality,1573,Smøla,552.12,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Smøla
+norway,cars,2025,municipality,1576,Aure,626.69,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Aure
+norway,cars,2025,municipality,1577,Volda,563.83,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Volda
+norway,cars,2025,municipality,1578,Fjord,633.28,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Fjord
+norway,cars,2025,municipality,1579,Hustadvika,694.73,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Hustadvika
+norway,cars,2025,municipality,1580,Haram,605.7,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Haram
+norway,cars,2025,municipality,1804,Bodø,511.4,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Bodø
+norway,cars,2025,municipality,1806,Narvik,571.95,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Narvik
+norway,cars,2025,municipality,1811,Bindal,612.81,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Bindal
+norway,cars,2025,municipality,1812,Sømna,663.47,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sømna
+norway,cars,2025,municipality,1813,Brønnøy,579.87,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Brønnøy
+norway,cars,2025,municipality,1815,Vega,569.18,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Vega
+norway,cars,2025,municipality,1816,Vevelstad,563.83,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Vevelstad
+norway,cars,2025,municipality,1818,Herøy (Nordland),541.84,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Herøy (Nordland)
+norway,cars,2025,municipality,1820,Alstahaug,546.68,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Alstahaug
+norway,cars,2025,municipality,1822,Leirfjord,615.97,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Leirfjord
+norway,cars,2025,municipality,1824,Vefsn,617.51,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Vefsn
+norway,cars,2025,municipality,1825,Grane,612.59,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Grane
+norway,cars,2025,municipality,1826,Aarborte - Hattfjelldal,609.89,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Aarborte - Hattfjelldal
+norway,cars,2025,municipality,1827,Dønna,557.71,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Dønna
+norway,cars,2025,municipality,1828,Nesna,510.73,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Nesna
+norway,cars,2025,municipality,1832,Hemnes,618.28,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Hemnes
+norway,cars,2025,municipality,1833,Rana - Raane,591.66,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Rana - Raane
+norway,cars,2025,municipality,1834,Lurøy,453.8,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Lurøy
+norway,cars,2025,municipality,1835,Træna,295.9,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Træna
+norway,cars,2025,municipality,1836,Rødøy,554.31,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Rødøy
+norway,cars,2025,municipality,1837,Meløy,594.36,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Meløy
+norway,cars,2025,municipality,1838,Gildeskål,590.11,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Gildeskål
+norway,cars,2025,municipality,1839,Beiarn,610.01,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Beiarn
+norway,cars,2025,municipality,1840,Saltdal,608.25,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Saltdal
+norway,cars,2025,municipality,1841,Fauske - Fuosko,628.05,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Fauske - Fuossko
+norway,cars,2025,municipality,1845,Sørfold - Fuolldá,643.98,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sørfold - Fuolldá
+norway,cars,2025,municipality,1848,Steigen,637.87,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Steigen
+norway,cars,2025,municipality,1851,Lødingen,518.14,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Lødingen
+norway,cars,2025,municipality,1853,Evenes - Evenássi,707.05,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Evenes - Evenássi
+norway,cars,2025,municipality,1856,Røst,493.45,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Røst
+norway,cars,2025,municipality,1857,Værøy,456.43,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Værøy
+norway,cars,2025,municipality,1859,Flakstad,602.69,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Flakstad
+norway,cars,2025,municipality,1860,Vestvågøy,618.11,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Vestvågøy
+norway,cars,2025,municipality,1865,Vågan,543.71,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Vågan
+norway,cars,2025,municipality,1866,Hadsel,577.98,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Hadsel
+norway,cars,2025,municipality,1867,Bø,627.82,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Bø
+norway,cars,2025,municipality,1868,Øksnes,570.66,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Øksnes
+norway,cars,2025,municipality,1870,Sortland - Suortá,613.21,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sortland - Suortá
+norway,cars,2025,municipality,1871,Andøy,624.39,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Andøy
+norway,cars,2025,municipality,1874,Moskenes,508.77,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Moskenes
+norway,cars,2025,municipality,1875,Hábmer - Hamarøy,575.74,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Hábmer - Hamarøy
+norway,cars,2025,municipality,3101,Halden,579.97,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Halden
+norway,cars,2025,municipality,3103,Moss,544.88,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Moss
+norway,cars,2025,municipality,3105,Sarpsborg,562.63,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sarpsborg
+norway,cars,2025,municipality,3107,Fredrikstad,533.04,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Fredrikstad
+norway,cars,2025,municipality,3110,Hvaler,583.0,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Hvaler
+norway,cars,2025,municipality,3112,Råde,614.65,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Råde
+norway,cars,2025,municipality,3114,Våler (Østfold),607.76,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Våler (Østfold)
+norway,cars,2025,municipality,3116,Skiptvet,614.76,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Skiptvet
+norway,cars,2025,municipality,3118,Indre Østfold,598.6,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Indre Østfold
+norway,cars,2025,municipality,3120,Rakkestad,629.3,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Rakkestad
+norway,cars,2025,municipality,3122,Marker,666.48,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Marker
+norway,cars,2025,municipality,3124,Aremark,678.31,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Aremark
+norway,cars,2025,municipality,3201,Bærum,591.42,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Bærum
+norway,cars,2025,municipality,3203,Asker,548.32,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Asker
+norway,cars,2025,municipality,3205,Lillestrøm,486.58,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Lillestrøm
+norway,cars,2025,municipality,3207,Nordre Follo,487.64,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Nordre Follo
+norway,cars,2025,municipality,3209,Ullensaker,538.03,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Ullensaker
+norway,cars,2025,municipality,3212,Nesodden,433.18,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Nesodden
+norway,cars,2025,municipality,3214,Frogn,550.41,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Frogn
+norway,cars,2025,municipality,3216,Vestby,542.68,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Vestby
+norway,cars,2025,municipality,3218,Ås,473.64,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Ås
+norway,cars,2025,municipality,3220,Enebakk,557.02,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Enebakk
+norway,cars,2025,municipality,3222,Lørenskog,443.38,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Lørenskog
+norway,cars,2025,municipality,3224,Rælingen,467.65,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Rælingen
+norway,cars,2025,municipality,3226,Aurskog-Høland,614.67,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Aurskog-Høland
+norway,cars,2025,municipality,3228,Nes,612.52,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Nes
+norway,cars,2025,municipality,3230,Gjerdrum,580.71,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Gjerdrum
+norway,cars,2025,municipality,3232,Nittedal,511.74,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Nittedal
+norway,cars,2025,municipality,3234,Lunner,593.95,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Lunner
+norway,cars,2025,municipality,3236,Jevnaker,609.12,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Jevnaker
+norway,cars,2025,municipality,3238,Nannestad,569.95,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Nannestad
+norway,cars,2025,municipality,3240,Eidsvoll,558.44,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Eidsvoll
+norway,cars,2025,municipality,3242,Hurdal,614.82,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Hurdal
+norway,cars,2025,municipality,3301,Drammen,502.78,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Drammen
+norway,cars,2025,municipality,3303,Kongsberg,579.78,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Kongsberg
+norway,cars,2025,municipality,3305,Ringerike,604.06,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Ringerike
+norway,cars,2025,municipality,3310,Hole,640.62,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Hole
+norway,cars,2025,municipality,3312,Lier,567.7,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Lier
+norway,cars,2025,municipality,3314,Øvre Eiker,604.91,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Øvre Eiker
+norway,cars,2025,municipality,3316,Modum,630.39,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Modum
+norway,cars,2025,municipality,3318,Krødsherad,630.87,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Krødsherad
+norway,cars,2025,municipality,3320,Flå,561.32,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Flå
+norway,cars,2025,municipality,3322,Nesbyen,622.78,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Nesbyen
+norway,cars,2025,municipality,3324,Gol,603.93,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Gol
+norway,cars,2025,municipality,3326,Hemsedal,583.99,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Hemsedal
+norway,cars,2025,municipality,3328,Ål,604.55,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Ål
+norway,cars,2025,municipality,3330,Hol,570.13,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Hol
+norway,cars,2025,municipality,3332,Sigdal,676.77,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sigdal
+norway,cars,2025,municipality,3334,Flesberg,664.28,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Flesberg
+norway,cars,2025,municipality,3336,Rollag,664.07,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Rollag
+norway,cars,2025,municipality,3338,Nore og Uvdal,705.6,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Nore og Uvdal
+norway,cars,2025,municipality,3401,Kongsvinger,601.69,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Kongsvinger
+norway,cars,2025,municipality,3403,Hamar,585.45,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Hamar
+norway,cars,2025,municipality,3405,Lillehammer,540.35,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Lillehammer
+norway,cars,2025,municipality,3407,Gjøvik,585.98,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Gjøvik
+norway,cars,2025,municipality,3411,Ringsaker,645.32,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Ringsaker
+norway,cars,2025,municipality,3412,Løten,1332.62,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Løten
+norway,cars,2025,municipality,3413,Stange,625.05,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Stange
+norway,cars,2025,municipality,3414,Nord-Odal,697.36,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Nord-Odal
+norway,cars,2025,municipality,3415,Sør-Odal,679.39,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sør-Odal
+norway,cars,2025,municipality,3416,Eidskog,703.75,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Eidskog
+norway,cars,2025,municipality,3417,Grue,749.39,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Grue
+norway,cars,2025,municipality,3418,Åsnes,738.79,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Åsnes
+norway,cars,2025,municipality,3419,Våler (Innlandet),737.0,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Våler (Innlandet)
+norway,cars,2025,municipality,3420,Elverum,592.86,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Elverum
+norway,cars,2025,municipality,3421,Trysil,624.43,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Trysil
+norway,cars,2025,municipality,3422,Åmot,625.68,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Åmot
+norway,cars,2025,municipality,3423,Stor-Elvdal,631.11,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Stor-Elvdal
+norway,cars,2025,municipality,3424,Rendalen,693.39,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Rendalen
+norway,cars,2025,municipality,3425,Engerdal,640.27,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Engerdal
+norway,cars,2025,municipality,3426,Tolga,603.99,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Tolga
+norway,cars,2025,municipality,3427,Tynset,624.96,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Tynset
+norway,cars,2025,municipality,3428,Alvdal,652.05,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Alvdal
+norway,cars,2025,municipality,3429,Folldal,674.03,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Folldal
+norway,cars,2025,municipality,3430,Os,690.24,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Os
+norway,cars,2025,municipality,3431,Dovre,628.38,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Dovre
+norway,cars,2025,municipality,3432,Lesja,640.08,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Lesja
+norway,cars,2025,municipality,3433,Skjåk,753.56,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Skjåk
+norway,cars,2025,municipality,3434,Lom,730.02,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Lom
+norway,cars,2025,municipality,3435,Vågå,657.41,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Vågå
+norway,cars,2025,municipality,3436,Nord-Fron,664.51,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Nord-Fron
+norway,cars,2025,municipality,3437,Sel,648.41,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sel
+norway,cars,2025,municipality,3438,Sør-Fron,693.73,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sør-Fron
+norway,cars,2025,municipality,3439,Ringebu,652.13,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Ringebu
+norway,cars,2025,municipality,3440,Øyer,626.8,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Øyer
+norway,cars,2025,municipality,3441,Gausdal,686.91,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Gausdal
+norway,cars,2025,municipality,3442,Østre Toten,711.27,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Østre Toten
+norway,cars,2025,municipality,3443,Vestre Toten,662.83,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Vestre Toten
+norway,cars,2025,municipality,3446,Gran,631.7,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Gran
+norway,cars,2025,municipality,3447,Søndre Land,651.06,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Søndre Land
+norway,cars,2025,municipality,3448,Nordre Land,667.33,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Nordre Land
+norway,cars,2025,municipality,3449,Sør-Aurdal,692.77,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sør-Aurdal
+norway,cars,2025,municipality,3450,Etnedal,700.16,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Etnedal
+norway,cars,2025,municipality,3451,Nord-Aurdal,676.22,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Nord-Aurdal
+norway,cars,2025,municipality,3452,Vestre Slidre,738.56,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Vestre Slidre
+norway,cars,2025,municipality,3453,Øystre Slidre,693.45,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Øystre Slidre
+norway,cars,2025,municipality,3454,Vang,662.01,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Vang
+norway,cars,2025,municipality,3901,Horten,528.34,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Horten
+norway,cars,2025,municipality,3903,Holmestrand,593.33,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Holmestrand
+norway,cars,2025,municipality,3905,Tønsberg,574.16,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Tønsberg
+norway,cars,2025,municipality,3907,Sandefjord,588.24,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sandefjord
+norway,cars,2025,municipality,3909,Larvik,590.22,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Larvik
+norway,cars,2025,municipality,3911,Færder,554.83,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Færder
+norway,cars,2025,municipality,4001,Porsgrunn,560.03,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Porsgrunn
+norway,cars,2025,municipality,4003,Skien,560.6,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Skien
+norway,cars,2025,municipality,4005,Notodden,595.89,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Notodden
+norway,cars,2025,municipality,4010,Siljan,635.41,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Siljan
+norway,cars,2025,municipality,4012,Bamble,592.8,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Bamble
+norway,cars,2025,municipality,4014,Kragerø,539.25,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Kragerø
+norway,cars,2025,municipality,4016,Drangedal,618.15,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Drangedal
+norway,cars,2025,municipality,4018,Nome,643.79,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Nome
+norway,cars,2025,municipality,4020,Midt-Telemark,589.13,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Midt-Telemark
+norway,cars,2025,municipality,4022,Seljord,608.52,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Seljord
+norway,cars,2025,municipality,4024,Hjartdal,614.22,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Hjartdal
+norway,cars,2025,municipality,4026,Tinn,562.31,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Tinn
+norway,cars,2025,municipality,4028,Kviteseid,631.62,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Kviteseid
+norway,cars,2025,municipality,4030,Nissedal,629.21,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Nissedal
+norway,cars,2025,municipality,4032,Fyresdal,678.34,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Fyresdal
+norway,cars,2025,municipality,4034,Tokke,640.3,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Tokke
+norway,cars,2025,municipality,4036,Vinje,603.21,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Vinje
+norway,cars,2025,municipality,4201,Risør,549.42,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Risør
+norway,cars,2025,municipality,4202,Grimstad,572.21,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Grimstad
+norway,cars,2025,municipality,4203,Arendal,564.94,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Arendal
+norway,cars,2025,municipality,4204,Kristiansand,510.08,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Kristiansand
+norway,cars,2025,municipality,4205,Lindesnes,557.43,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Lindesnes
+norway,cars,2025,municipality,4206,Farsund,614.17,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Farsund
+norway,cars,2025,municipality,4207,Flekkefjord,560.62,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Flekkefjord
+norway,cars,2025,municipality,4211,Gjerstad,643.66,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Gjerstad
+norway,cars,2025,municipality,4212,Vegårshei,578.56,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Vegårshei
+norway,cars,2025,municipality,4213,Tvedestrand,580.45,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Tvedestrand
+norway,cars,2025,municipality,4214,Froland,620.61,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Froland
+norway,cars,2025,municipality,4215,Lillesand,540.05,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Lillesand
+norway,cars,2025,municipality,4216,Birkenes,563.46,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Birkenes
+norway,cars,2025,municipality,4217,Åmli,629.92,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Åmli
+norway,cars,2025,municipality,4218,Iveland,589.71,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Iveland
+norway,cars,2025,municipality,4219,Evje og Hornnes,576.28,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Evje og Hornnes
+norway,cars,2025,municipality,4220,Bygland,666.09,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Bygland
+norway,cars,2025,municipality,4221,Valle,654.77,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Valle
+norway,cars,2025,municipality,4222,Bykle,543.79,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Bykle
+norway,cars,2025,municipality,4223,Vennesla,542.18,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Vennesla
+norway,cars,2025,municipality,4224,Åseral,594.54,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Åseral
+norway,cars,2025,municipality,4225,Lyngdal,590.03,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Lyngdal
+norway,cars,2025,municipality,4226,Hægebostad,645.58,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Hægebostad
+norway,cars,2025,municipality,4227,Kvinesdal,609.93,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Kvinesdal
+norway,cars,2025,municipality,4228,Sirdal,661.41,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sirdal
+norway,cars,2025,municipality,4601,Bergen,416.19,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Bergen
+norway,cars,2025,municipality,4602,Kinn,542.57,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Kinn
+norway,cars,2025,municipality,4611,Etne,601.03,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Etne
+norway,cars,2025,municipality,4612,Sveio,612.48,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sveio
+norway,cars,2025,municipality,4613,Bømlo,567.81,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Bømlo
+norway,cars,2025,municipality,4614,Stord,514.32,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Stord
+norway,cars,2025,municipality,4615,Fitjar,593.52,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Fitjar
+norway,cars,2025,municipality,4616,Tysnes,581.38,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Tysnes
+norway,cars,2025,municipality,4617,Kvinnherad,587.1,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Kvinnherad
+norway,cars,2025,municipality,4618,Ullensvang,564.25,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Ullensvang
+norway,cars,2025,municipality,4619,Eidfjord,573.94,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Eidfjord
+norway,cars,2025,municipality,4620,Ulvik,507.27,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Ulvik
+norway,cars,2025,municipality,4621,Voss,539.55,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Voss
+norway,cars,2025,municipality,4622,Kvam,568.04,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Kvam
+norway,cars,2025,municipality,4623,Samnanger,594.94,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Samnanger
+norway,cars,2025,municipality,4624,Bjørnafjorden,549.24,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Bjørnafjorden
+norway,cars,2025,municipality,4625,Austevoll,527.68,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Austevoll
+norway,cars,2025,municipality,4626,Øygarden,563.07,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Øygarden
+norway,cars,2025,municipality,4627,Askøy,524.01,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Askøy
+norway,cars,2025,municipality,4628,Vaksdal,534.97,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Vaksdal
+norway,cars,2025,municipality,4629,Modalen,505.1,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Modalen
+norway,cars,2025,municipality,4630,Osterøy,580.52,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Osterøy
+norway,cars,2025,municipality,4631,Alver,576.78,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Alver
+norway,cars,2025,municipality,4632,Austrheim,618.87,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Austrheim
+norway,cars,2025,municipality,4633,Fedje,441.46,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Fedje
+norway,cars,2025,municipality,4634,Masfjorden,628.33,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Masfjorden
+norway,cars,2025,municipality,4635,Gulen,615.93,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Gulen
+norway,cars,2025,municipality,4636,Solund,520.27,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Solund
+norway,cars,2025,municipality,4637,Hyllestad,602.65,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Hyllestad
+norway,cars,2025,municipality,4638,Høyanger,602.98,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Høyanger
+norway,cars,2025,municipality,4639,Vik,592.16,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Vik
+norway,cars,2025,municipality,4640,Sogndal,547.62,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sogndal
+norway,cars,2025,municipality,4641,Aurland,593.14,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Aurland
+norway,cars,2025,municipality,4642,Lærdal,622.03,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Lærdal
+norway,cars,2025,municipality,4643,Årdal,594.86,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Årdal
+norway,cars,2025,municipality,4644,Luster,613.4,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Luster
+norway,cars,2025,municipality,4645,Askvoll,550.51,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Askvoll
+norway,cars,2025,municipality,4646,Fjaler,534.54,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Fjaler
+norway,cars,2025,municipality,4647,Sunnfjord,582.47,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sunnfjord
+norway,cars,2025,municipality,4648,Bremanger,564.71,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Bremanger
+norway,cars,2025,municipality,4649,Stad,594.72,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Stad
+norway,cars,2025,municipality,4650,Gloppen,589.79,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Gloppen
+norway,cars,2025,municipality,4651,Stryn,632.06,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Stryn
+norway,cars,2025,municipality,5001,Trondheim - Tråante,427.35,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Trondheim - Tråante
+norway,cars,2025,municipality,5006,Steinkjer - Stïentje,592.5,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Steinkjer - Stïentje
+norway,cars,2025,municipality,5007,Namsos - Nåavmesjenjaelmie,583.28,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Namsos - Nåavmesjenjaelmie
+norway,cars,2025,municipality,5014,Frøya,572.06,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Frøya
+norway,cars,2025,municipality,5020,Osen,661.05,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Osen
+norway,cars,2025,municipality,5021,Oppdal,579.64,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Oppdal
+norway,cars,2025,municipality,5022,Rennebu,632.71,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Rennebu
+norway,cars,2025,municipality,5025,Røros - Rosse,590.39,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Røros - Rosse
+norway,cars,2025,municipality,5026,Holtålen,621.58,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Holtålen
+norway,cars,2025,municipality,5027,Midtre Gauldal,595.99,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Midtre Gauldal
+norway,cars,2025,municipality,5028,Melhus,587.36,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Melhus
+norway,cars,2025,municipality,5029,Skaun,592.42,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Skaun
+norway,cars,2025,municipality,5031,Malvik,552.69,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Malvik
+norway,cars,2025,municipality,5032,Selbu,669.97,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Selbu
+norway,cars,2025,municipality,5033,Tydal,613.23,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Tydal
+norway,cars,2025,municipality,5034,Meråker,610.03,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Meråker
+norway,cars,2025,municipality,5035,Stjørdal,588.48,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Stjørdal
+norway,cars,2025,municipality,5036,Frosta,638.11,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Frosta
+norway,cars,2025,municipality,5037,Levanger - Levangke,586.29,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Levanger - Levangke
+norway,cars,2025,municipality,5038,Verdal,624.19,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Verdal
+norway,cars,2025,municipality,5041,Snåase - Snåsa,571.09,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Snåase - Snåsa
+norway,cars,2025,municipality,5042,Lierne,617.02,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Lierne
+norway,cars,2025,municipality,5043,Raarvihke - Røyrvik,550.79,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Raarvihke - Røyrvik
+norway,cars,2025,municipality,5044,Namsskogan,636.25,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Namsskogan
+norway,cars,2025,municipality,5045,Grong,586.86,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Grong
+norway,cars,2025,municipality,5046,Høylandet,646.96,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Høylandet
+norway,cars,2025,municipality,5047,Overhalla,581.35,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Overhalla
+norway,cars,2025,municipality,5049,Flatanger,663.69,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Flatanger
+norway,cars,2025,municipality,5052,Leka,600.34,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Leka
+norway,cars,2025,municipality,5053,Inderøy,640.88,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Inderøy
+norway,cars,2025,municipality,5054,Indre Fosen,641.11,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Indre Fosen
+norway,cars,2025,municipality,5055,Heim,617.87,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Heim
+norway,cars,2025,municipality,5056,Hitra,599.0,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Hitra
+norway,cars,2025,municipality,5057,Ørland,644.87,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Ørland
+norway,cars,2025,municipality,5058,Åfjord,660.76,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Åfjord
+norway,cars,2025,municipality,5059,Orkland,617.03,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Orkland
+norway,cars,2025,municipality,5060,Nærøysund,606.29,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Nærøysund
+norway,cars,2025,municipality,5061,Rindal,656.17,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Rindal
+norway,cars,2025,municipality,5501,Tromsø,462.98,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Tromsø
+norway,cars,2025,municipality,5503,Harstad - Hárstták,557.71,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Harstad - Hárstták
+norway,cars,2025,municipality,5510,Kvæfjord,619.21,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Kvæfjord
+norway,cars,2025,municipality,5512,Dielddanuorri - Tjeldsund,666.67,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Dielddanuorri - Tjeldsund
+norway,cars,2025,municipality,5514,Ibestad,595.7,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Ibestad
+norway,cars,2025,municipality,5516,Gratangen - Rivtták,601.69,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Gratangen - Rivtták
+norway,cars,2025,municipality,5518,Loabák - Lavangen,621.32,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Loabák - Lavangen
+norway,cars,2025,municipality,5520,Bardu,609.44,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Bardu
+norway,cars,2025,municipality,5522,Salangen,615.78,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Salangen
+norway,cars,2025,municipality,5524,Målselv,678.25,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Målselv
+norway,cars,2025,municipality,5526,Sørreisa,662.33,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sørreisa
+norway,cars,2025,municipality,5528,Dyrøy,680.07,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Dyrøy
+norway,cars,2025,municipality,5530,Senja,618.14,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Senja
+norway,cars,2025,municipality,5532,Balsfjord,664.7,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Balsfjord
+norway,cars,2025,municipality,5534,Karlsøy,581.65,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Karlsøy
+norway,cars,2025,municipality,5536,Lyngen - Ivgu - Yykeä,636.06,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Lyngen - Ivgu - Yykeä
+norway,cars,2025,municipality,5538,Storfjord - Omasvuotna - Omasvuono,688.35,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Storfjord - Omasvuotna - Omasvuono
+norway,cars,2025,municipality,5540,Gáivuotna - Kåfjord - Kaivuono,639.9,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Gáivuotna - Kåfjord - Kaivuono
+norway,cars,2025,municipality,5542,Skjervøy,493.18,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Skjervøy
+norway,cars,2025,municipality,5544,Nordreisa - Ráisa - Raisi,605.61,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Nordreisa - Ráisa - Raisi
+norway,cars,2025,municipality,5546,Kvænangen,656.94,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Kvænangen
+norway,cars,2025,municipality,5601,Alta,580.61,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Alta
+norway,cars,2025,municipality,5603,Hammerfest - Hámmerfeasta,501.32,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Hammerfest - Hámmerfeasta
+norway,cars,2025,municipality,5605,Sør-Varanger,608.25,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Sør-Varanger
+norway,cars,2025,municipality,5607,Vadsø,603.25,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Vadsø
+norway,cars,2025,municipality,5610,Kárásjohka - Karasjok,570.92,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Kárásjohka - Karasjok
+norway,cars,2025,municipality,5612,Guovdageaidnu - Kautokeino,562.76,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Guovdageaidnu - Kautokeino
+norway,cars,2025,municipality,5614,Loppa,502.31,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Loppa
+norway,cars,2025,municipality,5616,Hasvik,482.09,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Hasvik
+norway,cars,2025,municipality,5618,Måsøy,418.94,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Måsøy
+norway,cars,2025,municipality,5620,Nordkapp,481.06,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Nordkapp
+norway,cars,2025,municipality,5622,Porsanger - Porsángu - Porsanki,641.68,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Porsanger - Porsángu - Porsanki
+norway,cars,2025,municipality,5624,Lebesby,458.0,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Lebesby
+norway,cars,2025,municipality,5626,Gamvik,417.7,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Gamvik
+norway,cars,2025,municipality,5628,Deatnu - Tana,640.46,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Deatnu - Tana
+norway,cars,2025,municipality,5630,Berlevåg,448.31,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Berlevåg
+norway,cars,2025,municipality,5632,Båtsfjord,470.34,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Båtsfjord
+norway,cars,2025,municipality,5634,Vardø,483.85,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Vardø
+norway,cars,2025,municipality,5636,Unjárga - Nesseby,665.9,cars-per-1000-residents,provenance/norway_release_candidate_manifest.json,country_local,Unjárga - Nesseby
