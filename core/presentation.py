@@ -38,7 +38,7 @@ METRIC_SHORT_LABELS = {
 
 METRIC_PHRASES = {
     "Population": "population size",
-    "Education": "higher education share",
+    "Education": "share of residents with higher education",
     "Income": "disposable income",
     "Commute distance": "average commute distance",
     "Employment": "full-time employment",
@@ -302,6 +302,9 @@ def build_country_finding(
         direction = "higher"
         more_avg, less_avg = high10, low10
         low_label, high_label = "highest", "lowest"
+
+    if factor_name == "Education":
+        direction = f"a {direction}"
 
     gap = round(abs(more_avg - less_avg), 1)
     concrete = (
